@@ -1,0 +1,3296 @@
+Unique_Word,Count
+homophones,1
+novel word segmentation approach,1
+statistical confidence,1
+near-misses,1
+swedish word clustering,1
+word sense disambiguation approach,1
+ascent,1
+prototype-based active learning,1
+intellicat,1
+edlin,1
+robust compositional polarity classification,1
+treelex,1
+adjectival tables,1
+texsmart,1
+sentiment scoring,1
+the leffe,1
+the victoria project,1
+intrinsic dimensionality,1
+bag of languages,1
+family trees,1
+scientific credibility,1
+anti-experts,1
+concept-attribute attachment,1
+aspect selection functions,1
+incremental systems,1
+wishes,1
+entity set refinement,1
+minimal-length linearizations,1
+bounded stack,1
+model-based right-corner transform,1
+multi-scale lexical cohesion,1
+latent permutations,1
+geo-centric language models,1
+relations between scientific papers,1
+local business voice search,1
+segmentation lattices,1
+xmoco,1
+construct-driven assessment,1
+pseudo-evidentiality training,1
+query-free resources,1
+query focused summaries,1
+subject-object-verb languages,1
+photo sharing behavior,1
+alteration,1
+empirical revisiting,1
+quadratic features,1
+active zipfian sampling,1
+reverse revision,1
+linear tree combination,1
+anchored speech recognition,1
+bertifying,1
+subjectivity sense labeling,1
+motion-appearance synergistic networks,1
+protolanguage word forms,1
+logistic normal distributions,1
+soft parameter tying,1
+parsable extensions,1
+tree-local multicomponent tag,1
+richer contexts,1
+context-dependent alignment models,1
+review pages,1
+syntactic packaging,1
+cil,1
+"""dialogue""",1
+extension of concepts,1
+shallow aggressive decoding,1
+false start errors,1
+tbl (transformation-based learning),1
+"""linguistic features""",1
+"""gaze features""",1
+"""second-person references""",1
+rich bitext projection,1
+bass,1
+cube summing,1
+fuzzy tag-set mapping,1
+em-hmm-based lexical probabilities,1
+speech genre samples,1
+mid-range re-ordering,1
+templates of factors,1
+fine-grained provenance,1
+phmospell,1
+step-by-step rewriting,1
+pos-constrained parallel decoding,1
+dialog task structure,1
+semantic-based estimation,1
+optimal reduction,1
+rule length,1
+graph-cut-based anaphoricity determination,1
+replacement strategy,1
+linear complexity,1
+chart constraints,1
+benchmark tasks,1
+updates,1
+slacker semantics,1
+superficiality,1
+avoidance of commitment,1
+tgea,1
+lexical affect scoring,1
+subword gaps,1
+wordnet kernels,1
+independence of dimensions,1
+decoding-time controlled text generation,1
+length drop,1
+external collections,1
+cheap operations,1
+noisy word boundary detection,1
+ghostbert,1
+cepstral time coefficients,1
+sub-band modulation spectrum compensation,1
+good terms,1
+length-adaptive transformer,1
+90% solution,1
+latent prosody model,1
+mandarin accent identification,1
+高解析度 (high resolution),1
+resource-constrained platforms,1
+ccmatrix,1
+wordnet::senserelate::allwords,1
+offline mapping,1
+generative blog post retrieval model,1
+optimal-time binarization algorithm,1
+alignment-based local features,1
+novel estimator,1
+trainable cache model,1
+latent biographic attributes,1
+conversational genres,1
+question & answer archives,1
+translation-based answer finding,1
+character accuracy,1
+generation ranking,1
+application-driven,1
+aviation safety reports,1
+adaptively learnt patterns,1
+abbreviated sentence input,1
+user action probabilities,1
+high-order chebyshev approximation,1
+determinantal beam search,1
+supervised itg models,1
+openfst,1
+bertgen,1
+unlimited-vocabulary speech recognition,1
+pervasive laziness,1
+multi-scale personalization,1
+sub-utterance prosody,1
+parallel prediction networks,1
+cleve,1
+non-phonemic respellings,1
+knowledge-enriched abstract meaning representation,1
+multiple understanding models,1
+answer credibility,1
+question type ontology,1
+feedback control adjustment,1
+time-sensitive query,1
+miscellaneous other-class words,1
+factored genres,1
+potential relation,1
+scl model,1
+prgc,1
+structurallm,1
+agenda graph construction,1
+vowel level,1
+adult models,1
+phrase-based decoder,1
+oracle-best translations,1
+hybrid two-pass model,1
+simplex armijo downhill algorithm,1
+decoding parameters,1
+types of claims,1
+online customer reviews,1
+openmeva,1
+image region textual coreference resolution,1
+attention-guided multi-layer multi-cross encoding,1
+partial speech recognition results,1
+spherical discriminant analysis,1
+system for noun concepts acquisition from utterances about images (sinca),1
+malay count classifier prediction,1
+synthetic children's acoustic models,1
+brain-damaged patients,1
+cambridge cookie-theft corpus,1
+hindu temples,1
+english contractions,1
+unattested latin words,1
+missing romanian cognates,1
+english-lithuanian smt system,1
+corrective re-synthesis,1
+deviant speech,1
+psycho-acoustically,1
+motivated formant,1
+positionwise flag diacritics,1
+fishing,1
+ofrlex,1
+etymdb-0,1
+russian collocations database,1
+query constraining,1
+aspects of knowledge,1
+handbook of swedish writing rules,1
+russian lexicography,1
+angling,1
+lithuanian term extraction,1
+predictability of language,1
+indonesian question answering,1
+atypical communication expertise,1
+nersil,1
+number of analogies between chunks,1
+academic paper categories,1
+chief emotion analysis,1
+v np1 into np2 construction,1
+large-scale name transliteration resource,1
+factoid question,1
+word emergence,1
+bare-bones dependency parsing,1
+sense selection,1
+lithuanian verb forms,1
+plwordnet-princeton wordnet synset mapping,1
+conplisit,1
+consumption patterns,1
+life-style,1
+andre ord,1
+finnish finite-state language description,1
+prague markup language,1
+wordwars,1
+parallel cky parsing,1
+cuteforce,1
+phrase-structure reranking,1
+edited text,1
+unedited text,1
+dependency chart parsing algorithms,1
+natural selection of words,1
+spoken dialog challenge 2010,1
+semti-kamols grammar model,1
+live test results,1
+control test results,1
+system differences,1
+odi et amo,1
+frequency lexicon,1
+cifu,1
+exchange of lexicons,1
+cyk,1
+low latency parallelization strategies,1
+matrix-encoded grammars,1
+psychological methods,1
+tufs basic vocabulary,1
+himalayas,1
+danish-bulgarian,1
+statistically motivated features,1
+norwegian synthetic voice brage,1
+lmf/tei,1
+computing scope,1
+modelling etymology,1
+consensus string,1
+modelling unbounded structures,1
+npcmj parsed corpus,1
+reflexive constructions,1
+hybrid dependency-constituency,1
+adaptive parse reranking,1
+lexidb,1
+motion morphemes,1
+`modifier-head' type,1
+delad initiative,1
+capability update,1
+korean vocabulary compression,1
+systematic differences,1
+conditional significance pruning,1
+adoption trends,1
+duolingo,1
+jamo pair encoding,1
+machine foreign language translation system (mflts),1
+engine-specific,1
+obstacles,1
+government catalog of language resources (gclr),1
+clfd,1
+government translation memory (tm) systems,1
+palladius mapping,1
+icelandic speech recognition,1
+raw machine translated technical instructions,1
+documenting language actors,1
+register mismatches,1
+source reformulations,1
+weight heterogeneous parallel data,1
+compact rule extraction,1
+adaptive grid,1
+sedar,1
+german speech recognition,1
+librivoxdeen,1
+infrequent translations,1
+lemma,1
+time-pooling strategies,1
+fertile translations,1
+dirichlet-smoothed word embeddings,1
+white hmong,1
+target-to-target decoding,1
+black letter,1
+in-the-wild dataset annotation,1
+costra 0,1
+hal,1
+sustainable data sharing infrastructures,1
+mt delivering expected value,1
+phonotactic rules,1
+extraction consistency,1
+bare-bones constraint grammar,1
+spring cleaning,1
+written standard slovene,1
+sense-disambiguated networks,1
+bushbank concept,1
+pattern reliability,1
+seed quality,1
+gigafida 0,1
+change management,1
+shared agreement,1
+bi-gram collocations,1
+argument-marking,1
+naxi,1
+filipino speech rhythm,1
+language lab environment,1
+final version,1
+clarin transcription portal,1
+imperfective aspect markers,1
+nominal morphology,1
+plural problems,1
+source content quality,1
+customer translation memory data,1
+global enterprise service,1
+the church of jesus christ of latter-day saints,1
+hq closed-captioning,1
+iptranslator,1
+web based english-chinese oov term translation,1
+recursive feature selection,1
+weight adaptation,1
+packed argument frame information,1
+universally quantified subjects,1
+wrapper generation,1
+myanmar phrases translation model,1
+statistical myanmar to english translation system,1
+casual annotation infrastructure,1
+task-oriented feature sets,1
+hmms,1
+similarity of predicate argument structures,1
+class-based lstm,1
+entity repository,1
+singletons,1
+representation gap,1
+wiki50 corpus,1
+cultural configuration,1
+accelerated high-quality,1
+meta-dare,1
+mwe-based features,1
+barrier features,1
+wiki-40b,1
+hidden morphophonemic constraints,1
+wikitext error correction task,1
+syntactically-motivated entailment proofs,1
+gm-rkb,1
+clause-bounded quantifiers,1
+dakshina dataset,1
+french-romanian lexical alignment system,1
+external plagiarism analysis,1
+semcor senses frequency,1
+relevant semantic trees,1
+pre-selected and balanced collections,1
+social domains,1
+oral narrative practices,1
+nisvai corpus,1
+semi-automatic translations,1
+jrc-names,1
+alphasyllabary embeddings,1
+stop labeling,1
+evenki,1
+hiligaynon,1
+english parallel corpus 0,1
+mycenaean linear b,1
+greek word embeddings,1
+geographically-balanced gigaword corpora,1
+isr-wn (information science research wordnet),1
+referentially complex situations,1
+multimodal eye movement dataset,1
+automatically generated semantic networks,1
+movie interactions,1
+片語式機器翻譯 (phrase-based machine translation),1
+未知詞 (out-of-vocabulary words),1
+落單字 (single words),1
+英文技術文獻 (english technical documents),1
+一般動詞 (non-technical english verbs),1
+受詞 (objects),1
+語境效用 (collocational influences),1
+elderly speaker corpus,1
+eye4ref,1
+dynamics of research,1
+weighted reordering graphs,1
+l1-regularized crfs (conditional random fields),1
+mkgdb,1
+multi-modal reference resolution,1
+linguistic clues,1
+multiple resolvers,1
+說話內容因素分析,1
+雜訊環境,1
+聯合語者,1
+numerical entities,1
+crunchbase,1
+identifying semantic arguments,1
+skip edges,1
+product pages,1
+event actor identification,1
+zipper finite-state transducers,1
+negative key phrases,1
+techwatchtool,1
+evaluation data set,1
+non-head structures,1
+kore 50\^dywc,1
+hungarian socialist era,1
+p\'art\'elet,1
+information asymmetry,1
+patient-based ontology,1
+strips representations,1
+edge dependent pathway,1
+lexical masks,1
+pdf files,1
+dialogue content,1
+system automation,1
+affect models,1
+error return,1
+coda system,1
+adaptable tutorial dialogue system,1
+pomy,1
+cantomap,1
+actionable information,1
+rule ensembles,1
+muyu,1
+error tolerable system,1
+loose transitivity constraints,1
+page images,1
+pre-cluster pair model,1
+vocalization,1
+robotic world model framework,1
+siner,1
+cross-cultural argumentation,1
+users' spontaneous backchannels,1
+word2word,1
+multiparty turn taking,1
+micro-timing,1
+user's ongoing turn,1
+romance verbal inflection dataset 0,1
+englawi,1
+levels of interest,1
+multistream prediction feedback,1
+predicting quality,1
+ca-ehn,1
+user state misclassification,1
+triggering policies,1
+sindhi named entity recognition,1
+adverbial cues,1
+"""embedded wizardry""",1
+banfakenews,1
+haitian kreyol,1
+malekula,1
+structured composition,1
+people's web,1
+confinement,1
+act understanding,1
+corsican basic language resource kit,1
+independent set readings,1
+distinction,1
+compositional expectation,1
+urdu n-v complex predicates,1
+gender attribution,1
+connotational drifts,1
+doreco,1
+sibling classes,1
+associated language resources,1
+vanuatu,1
+mmil,1
+french media dialogue corpus,1
+duration of events,1
+concrete sentence spaces,1
+abstract schema,1
+intractable,1
+meaning-preserving corrections,1
+technological interventions,1
+ulisse,1
+reliable dependency parses,1
+mutual k-nearest neighbor graphs,1
+low-income workers,1
+normalized-cut alignment model,1
+sencorpus,1
+tropbank,1
+turkish propbank v0,1
+simple image descriptions,1
+history-based models,1
+deterministic statistical mapping,1
+inverse lambda,1
+compute semantics,1
+response completion,1
+event-related bursts,1
+modality specific meta features,1
+charge fonctionnelle,1
+source separation,1
+binary masks,1
+son d'eveloppement (speech development),1
+données (data),1
+modèles (models),1
+prosotran,1
+transfert prosodique,1
+vocalic system's typology,1
+l\`evres (lips),1
+functional load viewpoint,1
+allongements vocaliques,1
+perceptive,1
+politeness across languages,1
+swahili resources,1
+pronunciation generation,1
+analyses de séquences (sequence analysis),1
+tons lexicaux (lexical tones),1
+tons,1
+wiki-ly supervised,1
+18- to 36- month old children,1
+wikipron,1
+dialectal effect,1
+normalisation articulatoire du locuteur,1
+m'ethodes de d'ecomposition tri-lin'eaire,1
+donn'ees irm,1
+three-way linear decomposition methods,1
+enfants de 18 \`a 36 mois,1
+la liaison,1
+children with a cleft palate,1
+explorations semi-automatiques,1
+phrase-to-region linking,1
+automatic and manual investigations,1
+percol0,1
+locuteurs porteurs de fente palatine,1
+covost,1
+vcv sequences,1
+habitat intelligent,1
+m\'ethodes multi-sources,1
+conditions r\'ealistes,1
+cognitive debate,1
+masques linguistiques,1
+swiss-al,1
+linguistic masking effects,1
+classification tolerance margin,1
+class-based acoustic models,1
+dialecte d'origine (native dialect),1
+effet d'aimant perceptif,1
+perceptual magnet effect,1
+paradigme de perturbation motrice (motor perturbation paradigm),1
+vietnamese-english code-switching,1
+driven decoding system combination,1
+le son de tes l\`evres,1
+corr\'elats \'electrophysiologiques,1
+la parole,1
+the sound of your lips,1
+audio-haptic speech perception,1
+voyelles nasales,1
+articulation orale,1
+nasal,1
+labial-coronal effect,1
+oscillations corticales,1
+intelligibilité de la parole d'egradée,1
+oscillatory cortical activity,1
+intelligibility of degraded speech,1
+encodage de la distance,1
+coop\'eration parole/geste,1
+\'etude d\'eveloppementale du pointage multimodal,1
+distance encoding,1
+speech/gesture cooperation,1
+multimodal pointing,1
+piezoelectric accelerometer,1
+nasality,1
+irm fonctionnelle (functional mri),1
+activations corticales (cortical activations),1
+r'éapprentissage de la parole (speech production recovery),1
+ag500,1
+électromagnétique 3d,1
+systèmes d'articulographie,1
+difficulty ratings,1
+ronec,1
+pitch height,1
+gradual variations,1
+rigor mortis,1
+cocktail party situation,1
+masked semantic priming,1
+proéminences,1
+voisinage phonologique (phonological neighborhood),1
+the /y-u/ vowels,1
+lifeqa,1
+zones de d'eviance,1
+bandes de fr'equences,1
+abnormal zone detection,1
+/y-u/,1
+mulai,1
+productions natives,1
+f0-declination,1
+prosodic accommodation,1
+hedwig,1
+perception des syllabes,1
+laryngeal adjustments,1
+coarticulation cv,1
+italian adult stutterers,1
+'enonc'es interrogatifs,1
+location phrases,1
+comportement social d'un robot (social behaviour of a robot),1
+emotions de l'utilisateur (user's emotions),1
+expérience perceptive (perceptive experiment),1
+contr\^ole pr\'edictif,1
+actions oro-faciales,1
+predictice control,1
+orofacial actions,1
+analyse en composante principale,1
+animal species names,1
+un mod\`ele bay\'esien,1
+japonophones,1
+e:calm resource,1
+précision de mesure,1
+temporal dynamics of binding,1
+dialectal french,1
+configuration labiale,1
+labial configuration,1
+parole codée (coded speech),1
+transformation en paquets de framelette serrée (tight framelet packet transform),1
+dynamique temporelle du liage,1
+fusion de la parole audiovisuelle,1
+apprentissage de contrastes non-natifs,1
+contr\^ole lingual,1
+limites des entraînements statistiques,1
+learning non-native contrasts,1
+repere,1
+reconnaissance multimodale des personnes,1
+codage 'echelonnable 'a granularit'e fine de la parole,1
+fine granularity scalable speech coding,1
+helfi,1
+voice assimilation,1
+list search,1
+non-mots,1
+assimilation de voisement,1
+posture,1
+oral courses,1
+recipe flow graph,1
+mod\'elisation biom\'ecanique,1
+biomechanical modeling,1
+image position,1
+parole non-native,1
+étrangères,1
+lipsadon laboratoire indépendant de police scientifique,1
+scientific testimonies,1
+forensics independent laboratory,1
+results variation,1
+variations de performance,1
+serial speakers,1
+documents audio,1
+canberra,1
+canvec,1
+r'egions d'erreurs,1
+chunk-level features,1
+predict-self reestimation,1
+casing methods,1
+collection effort,1
+context span,1
+ai readability,1
+formula,1
+gap-minding trees,1
+identifying evidence,1
+japanese-specific sequence,1
+based medicine categories,1
+transliteration-based text input,1
+inhibitory,1
+concurrent acquisition,1
+must-cinema,1
+dependency-and-boundary models,1
+salient threads,1
+marcell,1
+spoken word duration,1
+string variation,1
+latin alphabets,1
+streaming analysis,1
+mixed membership markov models,1
+entity-topic model,1
+efficient named-entity rule induction,1
+web-based pseudo contexts,1
+enhanced mapping scheme,1
+nmt-translated detective novel,1
+magnifying glass,1
+spectral dependency,1
+phrase-discovering topic model,1
+opustools,1
+discontiguous rules,1
+parapat,1
+large scale decipherment,1
+buffer transitions,1
+original signal type,1
+delayed column,1
+topical dimensions,1
+recursive matrix-vector spaces,1
+estimating point queries,1
+coursera,1
+amortizing inference cost,1
+patty,1
+expectation propagation,1
+rest costs,1
+document-wide decoding,1
+first order modification,1
+row generation,1
+learning-based multi-sieve,1
+"""this-issue"" anaphora",1
+entity based q&a retrieval,1
+quiz master,1
+incremental classification games,1
+unambiguity regularization,1
+food prices,1
+short listings,1
+large-scale approximate graph construction,1
+lectures translation,1
+wall street corral,1
+jass,1
+complex cases of definite pronouns,1
+sshlda,1
+incomplete tag dictionaries,1
+person specific evidence,1
+consistent timeline extraction,1
+document sub-structure,1
+unique relations,1
+small nmt children,1
+non-projective word order,1
+statistical linearization,1
+phrase table pruning techniques,1
+regression-based mt evaluation,1
+generous,1
+subtree ranking,1
+multi-task patent translation,1
+structural dimensions,1
+error region detection,1
+bulgarian hospital,1
+swan,1
+scholars,1
+"""optima"" news translation system",1
+folheador,1
+institutional subtitles,1
+empac,1
+value directed compression,1
+electionwatch,1
+matching dependency paths,1
+langlog,1
+hadoopperceptron,1
+brat,1
+power-law distributions,1
+ccnet,1
+bilstm compound splitter,1
+undirected graphs,1
+gebiotoolkit,1
+wikipedia biographies,1
+spice,1
+mismatch negativity study,1
+normo-entendants,1
+french cued speech perception,1
+hearing people,1
+orientation s'elective de l'attention,1
+connaissance (knowledge),1
+l'\'etat du locuteur (the state of the speaker),1
+unisent,1
+traitement audiovisuel,1
+discrimination syllabique,1
+irmf,1
+lexicogrammatic translationese,1
+syllabic discrimination task,1
+étude eeg,1
+perception de différences infra-phonémiques,1
+situation de variations,1
+graph-based completion model,1
+click patterns,1
+german smt,1
+smart paradigms,1
+uby,1
+wikinflection corpus,1
+perceptual context,1
+online triage,1
+ancient babylonian,1
+babyfst,1
+novelistic plot structure,1
+glawi,1
+kvistur 0,1
+irregular gender,1
+linguistically motivated derivational description,1
+maximizing classification certainty,1
+elliphant,1
+impersonal constructions,1
+glawinette,1
+dutch stemmer,1
+subcat-lmf,1
+perplexity minimization,1
+error contexts,1
+contextual fitness,1
+predict answers,1
+service context,1
+lattice bleu oracle scores,1
+character-based pivot translation,1
+cairo student code-switch (cscs) corpus,1
+short informative sentiment summaries,1
+multiple ranks,1
+webcage,1
+germanet senses,1
+behave,1
+general predictor,1
+generation tools,1
+highly confident word translations,1
+language understanding accuracy,1
+instance-driven attachment,1
+language learning sns,1
+related entity finding,1
+dad parallel corpora,1
+translation test items,1
+top-1 search result,1
+pronunciation event verification,1
+thematic progression,1
+minimum variance modulation filter,1
+themepro,1
+discsense,1
+boundary of language,1
+plurks,1
+automatic query augmentation model,1
+phonetic complements,1
+advanced modulation spectrum compensation techniques,1
+allgemeine musikalische zeitung,1
+qme!,1
+impresso collection,1
+adjective-adverb interfaces,1
+indigenous knowledge concepts,1
+well-defined questions,1
+academic conference,1
+reference regeneration,1
+online generation,1
+bangla discourse connectives,1
+inherently parallel structure,1
+dimlex-bangla,1
+geczlex,1
+nivre's method,1
+mdl-inspired objective function,1
+intelligent selection,1
+decision detection,1
+inference-driven metric learning,1
+in-car simulator,1
+feedback expressions,1
+last sentence,1
+bridge outside scores,1
+parse features,1
+chinese ted talks,1
+fine-grained proposition types,1
+time-aligned,1
+charters,1
+extraction assessment,1
+berkeley parser,1
+consonant cmm,1
+lexical metric,1
+phrase-based statistical mt system optimization,1
+mcmc,1
+songkorpus,1
+contemporary german pop lyrics,1
+sitg parsing,1
+brown parser,1
+sahaptin,1
+off topic conversation,1
+initiation-response pairs,1
+learning groups,1
+personalized annotation tags,1
+minimum redundancy,1
+rich quotation annotation,1
+quantized contour modeling,1
+bdcam\~oes collection,1
+material philology,1
+digital onomastic lexicography,1
+nordicon database,1
+1937,1
+spanish political speeches,1
+2015 immigration debate,1
+debatenet-mig15,1
+revenues,1
+great war,1
+blog polarity classification,1
+time-efficient creation,1
+accurate sentence fusion corpus,1
+deduplication,1
+assisted analysis,1
+livito,1
+stochastic bracketing,1
+dream corpus,1
+continental sources,1
+synonym regularization,1
+explicit discourse argument expansion,1
+possession timeline generation,1
+film age appropriateness investigation,1
+mixing multiple preprocessor,1
+sighan backoff 2010,1
+pinyin's finals,1
+habibi,1
+sau report,1
+ccid system,1
+2th evaluation,1
+head recognition,1
+pris,1
+automatic orality identification,1
+lpcfg parser,1
+multiple usages,1
+dutch fact-checks,1
+multi-stage clustering framework,1
+xiamen university,1
+jumping distance,1
+crf-based experiments,1
+oov-recall,1
+n-gram mutual information,1
+boundary-oriented chinese segmentation method,1
+text massaging,1
+intensive care patient notes,1
+high-context medical conditions,1
+alector,1
+chinese event descriptive clause,1
+bigram hmm,1
+machine humor comprehension,1
+common chinese adverb's usages,1
+predicate heads,1
+specific language focused crawler,1
+cmdmc,1
+diachronic digital museum,1
+chinese word segmentation backoff,1
+mpaa rating,1
+conditional support vector,1
+dlut,1
+factcorp,1
+analogue to language,1
+reverse feature engineering,1
+intrinsic clustering quality,1
+type level clustering,1
+recession segmentation,1
+stigmatized language detection,1
+stigma annotation scheme,1
+variance-regularization,1
+card-pyramid parsing,1
+joint rule selection model,1
+cluster ensemble,1
+reordering graphs,1
+path counting transducers,1
+conversational cognitive health screening interviews,1
+mncd,1
+pml-tq,1
+argument roles,1
+event-based hyperspace,1
+fake news challenge stance detection,1
+fnc-1 task,1
+scientific statement classification,1
+correct,1
+lstc system,1
+neunlplab,1
+monsanto trial,1
+complex sensitive sentences,1
+cascade method,1
+in-sentence scopes,1
+maxent cue classification,1
+dependency-based scope rules,1
+legal provisions,1
+relhunter approach,1
+high-precision approach,1
+ledgar,1
+approximate max-margin sequence labelling,1
+scope finding,1
+procedural feature selection,1
+crandem approach,1
+training log-linear models,1
+cost functions,1
+czech information retrieval,1
+proactive voice assistant behavior,1
+margarita dialogue corpus,1
+semantic tests,1
+balanced named entity corpus,1
+driving strategies,1
+e-commerce customer service,1
+jddc corpus,1
+rephrasing user input,1
+translation hosting site,1
+bliss,1
+system comparison,1
+sound processing detectors,1
+state corrections,1
+mulexfor database,1
+paragraph acquisition,1
+community-based construction,1
+folk taxonomies,1
+appraise,1
+integrated scheme,1
+pate,1
+lof (local outlier factor),1
+public environment,1
+unknown morpheme detection,1
+speech type,1
+mpdd,1
+rdg-map,1
+sources of weakness,1
+knowledgeable movie discussions,1
+iso 24617-2 communicative functions,1
+lego corpus,1
+elliptical word estimation,1
+qu\aero,1
+comprehensive resource,1
+varied data,1
+qu\aero named entity baseline evaluation,1
+draft and final translation corpus,1
+d-tuna corpus,1
+contemporary written dutch,1
+multidimensional subjective ratings,1
+fungramkb,1
+wtimit,1
+3g amr wideband mobile network,1
+improved methodology,1
+student revision outcome,1
+macaq,1
+adapt answers,1
+u-compare,1
+adn-classifier,1
+integrated language resource evaluation platform,1
+comprehensive uima resource library,1
+textual knowledge acquisition tools,1
+multimodal answers,1
+italian framenet,1
+crwiz,1
+magpie,1
+automatically learned pronunciation variants,1
+immersive language exploration,1
+bastat,1
+far-distance microphones,1
+denotation types,1
+clinic visit dialogue,1
+namedat,1
+mobile n-deletion,1
+back-channel utterance corpus,1
+annotated telephone speech,1
+dutchparl,1
+image attributes,1
+collaborative escience environment,1
+tlt-school,1
+distributed escience infrastructure,1
+gikiclef,1
+technology universe,1
+fau iisah corpus,1
+process-oriented dataset,1
+component-based metadata framework,1
+nident,1
+bitext-based resolution,1
+two millennia,1
+sign linguistics corpora network,1
+web library of babel,1
+module order,1
+300+ years,1
+dyslexic reading training,1
+humanistic study,1
+gis application,1
+liturgical data set,1
+asian wordnet collaboration,1
+basque-english clir,1
+fastkwic,1
+intelligent concordancer,1
+fastr,1
+feature system declaration,1
+books of hours,1
+fuzzy agreement measure,1
+"""corpus redewiedergabe""",1
+efficient transcription,1
+folker,1
+wedh,1
+german subject-object ambiguities,1
+key-finding problem,1
+leapfrog,1
+relaxed marginal inference,1
+hidden variables,1
+text illustration,1
+context-free reordering,1
+riqua,1
+extractive supervised two-stage method,1
+abstracting conversations,1
+sequence similarity maximization,1
+section recognition,1
+requests for action,1
+encyclopedic metadata,1
+comment extraction,1
+fidji,1
+propbank frameset,1
+aged voices,1
+alert messages,1
+educational search portal,1
+witchcraft,1
+intelligent exploration,1
+coda corpus,1
+human-machine conversations,1
+ad-hoc evaluations,1
+brain-ihm dataset,1
+mine definitions,1
+social gaze,1
+slovene structured and unstructured knowledge-rich resources,1
+first encounter dialogues,1
+biscayan,1
+cintil deepgrambank,1
+paco: a corpus,1
+diachronic blark,1
+ne information,1
+alborada-i3a corpus,1
+temporal navigation,1
+type of responsive utterance,1
+brainpredict,1
+bank of russian constructions,1
+multi-stream vector representation method,1
+hybrid citation,1
+short units,1
+mpc,1
+modeling social phenomena,1
+dicion\'ario aberto,1
+germanpolarityclues,1
+ratings of human dialogue observers,1
+improved lemma annotation,1
+model summaries,1
+location-related images,1
+mtsi-bert,1
+derivational rephrasing experiment,1
+phase 2 gale distillation,1
+give-2,1
+frequently readmitted patients,1
+feature-rich log-linear lexical model,1
+log-linear parser,1
+domain-assisted product aspect hierarchy generation,1
+eliminating intra-sentence polarity ambiguities,1
+all-solid-state batteries,1
+overlapping components,1
+approximate scalable bounded space sketch,1
+extracting synthesis process,1
+large-scale wikipedia-based english information retrieval dataset,1
+pseudo in-domain data selection,1
+l1-induced paraphrases,1
+wikir,1
+heuristics-free cross-annotation evaluation,1
+image-based table detection,1
+table benchmark,1
+special entity linking task,1
+headword-oriented entity linking,1
+feature-rich language-independent syntax,1
+related instances,1
+wexea,1
+umus system,1
+compounding errors,1
+bi-word models,1
+parametric weighting,1
+pivot combinations,1
+word clipping,1
+recognizing rights,1
+problem solving threads,1
+cleek,1
+edge detection,1
+double-dop,1
+zero-resource event extraction,1
+confirmation code,1
+behavioural change intervention reports,1
+optimal search,1
+non-parallel multilingual guidance,1
+hbcp corpus,1
+bitext dependency parsing,1
+tree translation examples,1
+word lengthening,1
+brand-product relation,1
+intelligibility measurement,1
+surgical intervention,1
+general connotation of words,1
+fast re-scoring strategy,1
+quantitative characteristic metrics,1
+guided search,1
+challenging tokens,1
+hardeval,1
+parse correction,1
+large-scale noun compound interpretation,1
+difficult attachment types,1
+phonological strings,1
+lateen em,1
+gold part-of-speech tags,1
+expert investors,1
+stock microblogs,1
+structural opinion mining,1
+notions of depth,1
+discriminating performance,1
+relaxation path,1
+sparse covariance matrices,1
+literal sense identification,1
+concrete context,1
+abstract context,1
+syntactic decision tree lms,1
+intelligent design,1
+imagination of crowds,1
+conversational aac language modeling,1
+common benchmark,1
+local content shift detectors,1
+relation acquisition,1
+centralized benchmark,1
+non-bottom-up tree structure prediction,1
+cache-based document,1
+minimum imputed-risk,1
+lince,1
+mono-word models,1
+implicit geographic movement,1
+tokyo metropolitan assembly minutes,1
+batch size changing instance selection,1
+tris,1
+automatically discovered social context,1
+simultaneous clustering,1
+structured and extended named entity evaluation,1
+frame-based resource,1
+rad-spatialnet,1
+wikipedia-lda model,1
+clgvsm,1
+labeled data expansion,1
+thread cleaning,1
+bn-based user model,1
+personalised recommendation,1
+pos-based ensemble model,1
+ensemble-style,1
+transductive minimum error rate training,1
+distributed minimum error rate training,1
+factoring parallelism,1
+small syntactic prototypes,1
+french 250m tokens corpus,1
+back and out links,1
+$s^3$,1
+large auto-analyzed data,1
+codact,1
+hl-sot approach,1
+localized feature selection framework,1
+opinion dependency relations,1
+false sentiment propagation,1
+ai journey,1
+electroencephalography reports,1
+quality-biased ranking,1
+relation descriptors,1
+synthetic web search queries,1
+low bandwidth,1
+high precision clir,1
+heterogeneous web,1
+citation knowledge,1
+temporal histories of epidemic events (thee),1
+survey analysis,1
+resource terms,1
+lyrics annotations,1
+predicate-argument co-occurring statistics,1
+wasabi song corpus,1
+outside word space,1
+relational lasso,1
+myfixit,1
+multi-modality manifold-ranking,1
+code mapping,1
+formula identifiers,1
+code dividing,1
+double-array trie,1
+functional elements,1
+pos categories,1
+wn-salience,1
+models cascade,1
+nature inspired engineering,1
+near-duplicate detection,1
+product entity completion,1
+sms abbreviations,1
+safety information mining,1
+pseudo co-testing learner,1
+parsing imperatives,1
+large-scale lexicalized case frames,1
+breadth-first representation,1
+tree matching,1
+mathalign,1
+bayesian subtree alignment model,1
+pivot-based statistical mt,1
+authoritative encyclopedic sources,1
+stem scholarly content,1
+siblings,1
+domain coverage,1
+stem-ecr dataset,1
+pst 0,1
+k2q,1
+graph reinforcement,1
+experimental support,1
+stuttered speech,1
+androids,1
+elaboration relations,1
+aspect flow representation,1
+route communication,1
+natural language route directions,1
+older simulated users,1
+sparse approximate dynamic programming,1
+action corrections,1
+web archiving collections,1
+isu-based approach,1
+enhanced monitoring tools,1
+brazilian legal documents classification,1
+coherent back-channel feedback,1
+victor,1
+vocal intensity,1
+turn-initial cue phrases,1
+pamini,1
+same relations,1
+feature correlations,1
+multimodal eca systems,1
+user satisfaction transitions,1
+k\`an,1
+degrees of orality,1
+comparative annotation,1
+stressed emotion,1
+dynasand corpus,1
+comparable learner corpora,1
+pedagogical insights,1
+cultural protocol,1
+cultural variations,1
+global sentiwordnet,1
+different events,1
+developmental trend,1
+emoevent,1
+cross-sortal predication,1
+deep gaussian processes,1
+generic interaction patterns,1
+time-pressure induced stress,1
+ch'ang+noun,1
+ontology statements,1
+programmable instrumented generator,1
+rags (possibly an acronym,1
+unclear without context),1
+sexism detection,1
+re-usable high-level rules,1
+dust storm,1
+z test cases,1
+grouping axioms,1
+fire hose,1
+coherent ontology descriptions,1
+monolingual translation,1
+spatially situated discourse,1
+saudi tweets dataset,1
+flodusta,1
+wac,1
+progressive neural networks,1
+graph-based content-selection framework,1
+preference judgements,1
+ami corpus,1
+medical team meetings,1
+one person,1
+one million utterances,1
+one month,1
+witchcraft workbench project,1
+mpowers,1
+refine studio,1
+youbot,1
+affective companion eca prototype,1
+$f^2$,1
+online error detection,1
+individual users' utterance histories,1
+complex task-oriented domain,1
+you expressions,1
+user-adaptive coordination,1
+agent communicative behavior,1
+adjective+t'u sh\=u gu n,1
+contents of original documents,1
+collateral tracks,1
+n-gram-based distant supervision,1
+working memory capacity,1
+japanese wh-questions,1
+chains,1
+punjabi morphology,1
+korean-specific-feature-based distant supervision,1
+intractions,1
+korean syllable structures,1
+focus types,1
+licensing nominals,1
+subject-object asymmetry,1
+korean case ellipsis,1
+focus effects,1
+event-driven spatial annotation framework,1
+korean-specific emotion annotation procedure,1
+frustration analysis,1
+truth conditions,1
+subset of votes,1
+po-emo,1
+benglish verbs,1
+attribute noun class,1
+primary tracks,1
+a week,1
+structured relation discovery,1
+document-level user responses,1
+third-order variational,1
+packed-shared dependency forests,1
+flu,1
+word ratings,1
+probabilistic forest-to-string model,1
+typed lambda calculus expressions,1
+podcastle,1
+anonymous user contributions,1
+topic-prominent language,1
+co-create a story,1
+aesthetic emotions,1
+categorial account,1
+poki,1
+identification of important opinions,1
+autolex,1
+quantificational scope readings,1
+japanese benefactives,1
+yaru-construction,1
+low-cost annotation,1
+stage/individual-level predicates,1
+indefinite subjects,1
+novel term recognition,1
+emotion holder,1
+`kill',1
+professional actors,1
+non-target categories,1
+pretending,1
+bbs posts,1
+japanese notational variants,1
+korean kes,1
+sindhi noun inflections,1
+non-actors,1
+`sudeni',1
+potus corpus,1
+book samples,1
+fault-tolerant learning,1
+syntactically complex demonstratives,1
+sortal inherency,1
+state of being alone,1
+solo,1
+russian adults,1
+before and after sentences,1
+txm platform,1
+open-source textual analysis software,1
+study of stance in politics,1
+modern patent language,1
+patent lexis,1
+kolon system,1
+weekly addresses,1
+register classification,1
+german discontinuous structures,1
+discosuite,1
+lextec,1
+prado,1
+dialogue symptom diagnosis,1
+iconic gestures,1
+mtna,1
+projection attention networks,1
+analytic scoring rubrics,1
+college-level summary writing tasks,1
+statistical framework,1
+rectified anchor word algorithm,1
+multi-objective named-entity,1
+hyperspherical query,1
+dual constrained question embeddings,1
+high recall,1
+context events,1
+event temporal status identification,1
+infer entities,1
+multi-perspective speaker profiles,1
+symptom graph,1
+semantic coherent question generation,1
+aspect-specific graph convolutional networks,1
+syntax-agnostic neural model,1
+mulcode,1
+obligatory contour principle,1
+stock market sentiment lexicon,1
+top similarity vectors,1
+idea density,1
+covert,1
+overt,1
+tucker,1
+substring frequency features,1
+crossweigh,1
+dense bottom-up grounding approach,1
+nitmz-ju,1
+cky-based convolutional attention,1
+youmakeup,1
+input-to-output gate,1
+soft-label chain,1
+character levels,1
+neural citation count prediction model,1
+related,1
+political document analysis,1
+intervene,1
+dialog responses,1
+deep structured similarity model,1
+proofread sentence generation,1
+english bible study,1
+hierarchical location prediction neural network,1
+context-aware smoothing,1
+syntactically plausible word representations,1
+key-value attention mechanism,1
+mipa,1
+multiple premises,1
+sifted multi-task learning,1
+absorption,1
+global recurrent structure,1
+geographical evaluation,1
+phoneme length context,1
+three text genres,1
+cwig3g2,1
+conveying understanding results,1
+high stakes domain,1
+pubmed 200k rct,1
+documentation strings,1
+subnode information,1
+quoted speech,1
+news network embedding,1
+transferable deep global match network,1
+person-job fit,1
+chronic obstructive pulmonary disease (copd),1
+biomarkers,1
+cvbed,1
+cvs,1
+chinese college entrance examination,1
+draw and tell,1
+sketch-only descriptions,1
+neural review classification,1
+multiplicative multi-way model,1
+name-based counterfactual data substitution,1
+split-and-recombine approach,1
+local representation,1
+hierarchical modular event argument extraction,1
+hmeae,1
+multi-order graph convolution,1
+online deception detection,1
+hate crimes,1
+train temporal relation classifiers,1
+regular event pairs,1
+semantic core,1
+aspect-guided deep transition model,1
+hint-based training,1
+multifit,1
+subband recurrent neural networks,1
+knowledge regularization,1
+mining pois,1
+lavender tongue,1
+手機平台 app,1
+delay in appearance,1
+graph sampling,1
+french supreme court cases,1
+law area,1
+uyghur segmentation,1
+similarity based genre identification,1
+reputation defence strategies,1
+critical political exchanges,1
+entailed question generation,1
+answer consistency,1
+human property knowledge,1
+character adjectives,1
+multimodal gender profile,1
+genuine polish suicide notes,1
+smoothed lexical features,1
+quality syntax,1
+authors' national variety of english,1
+modeling coherent flow,1
+pyramid-based summary,1
+四縣客語輸入法,1
+various snr-level training data,1
+text2math,1
+語音辨識錯誤偵測 (asr error detection),1
+nist 2016 speaker recognition evaluation,1
+phonation speed,1
+neural personal discrimination,1
+two-stage attentional auditory model,1
+application to speaker identification,1
+序列標記 (sequence labeling),1
+配對方法 (matching methods),1
+rational distortions,1
+domain-invariant feature distillation,1
+open domain context-based code generation,1
+juice,1
+collaborative partitioning,1
+top-rank enhanced listwise optimization,1
+learning programmatic idioms,1
+cloze-driven pretraining,1
+editing-based sql query generation,1
+sut submission,1
+anti-spoofing 2017 challenge,1
+sut system,1
+語言樣式探勘 (mining language patterns),1
+adaptive embeddings,1
+plda,1
+gmm-hmm,1
+shallow domain,1
+drama-long short-term memory recurrent neural network,1
+dynamic emotion recognition,1
+amplifying a sense of emotion,1
+attribute-oriented aspect,1
+查詢意向 (query intent),1
+vietnamese reviews,1
+duplex model of pitch perception,1
+lexical-based adversarial reinforcement training,1
+lexicalat,1
+quality estimation-guided semi-supervised training,1
+詞向量 (word embeddings),1
+lexicon-based regularization,1
+complex-simplified text pairs,1
+reverse associations,1
+mt/ie,1
+geographical vectors,1
+phylogenetic vectors,1
+noise distribution,1
+global sparse gradients,1
+real estate market,1
+training dimension selection,1
+pairwise occurrence information,1
+negate adjectives,1
+uriel,1
+bilinear models,1
+multi-pairwise extension,1
+feature-dependent confusion matrices,1
+semantic value,1
+syntagnet,1
+adjective-noun phrasing knowledge,1
+article omission,1
+typological vectors,1
+function head,1
+hybrid generation,1
+changing variables,1
+prototype editing,1
+nematus,1
+talkdown,1
+ramble on,1
+popular historical figures,1
+autobank,1
+marine variable linker,1
+marine science literature,1
+distributed neural network training,1
+neoveille,1
+neologism tracking,1
+global reasoning,1
+webvectors toolkit,1
+intoevents,1
+chinese sql,1
+atomic templates,1
+glossbert,1
+exponential family principal component analysis,1
+posterior variability,1
+red herring,1
+optimal word buckets,1
+hybrid cnn-rnn alignment model,1
+multivariate gaussian document representation,1
+deep reinforcement learning methods,1
+vacation,1
+via translation,1
+attribute-based semantics,1
+compositional methods,1
+companion teaching,1
+projection learning,1
+single and cross-domain polarity classification,1
+nmt search errors,1
+emobank,1
+representation format,1
+synchronously generating,1
+purchase stage identification,1
+qainfomax,1
+syntactically informed,1
+dependency-based dsms,1
+meta knowledge graph information,1
+babeldomains,1
+jfleg,1
+fluency corpus,1
+legal nerc,1
+content types dataset,1
+house,1
+real estate classifieds,1
+redundant repeating generations,1
+text level graph,1
+label informative wide & deep classifier,1
+feedback loops,1
+pun-gan,1
+prior alignment,1
+syntactic translation lattices,1
+unseen morphological variants,1
+bottlesum,1
+artext prototype,1
+audience segmentation,1
+users' negative feedbacks,1
+speaker-role adaptation,1
+weakly paired documents,1
+transferable representation,1
+transformer dissection,1
+bambara tonalization system,1
+neural gaussian copula,1
+wikicrem,1
+multi-turn human-computer dialogues,1
+scale seq2seq models,1
+parallel iterative edit models,1
+artificial crowds,1
+human response patterns,1
+user-level facebook models,1
+county-level twitter predictions,1
+multi-document inputs,1
+global importance optimization,1
+neuramanteau,1
+fully unsupervised cross-lingual embeddings,1
+contextual advertising,1
+character attention mechanism,1
+es-lda,1
+execution video,1
+serialization information,1
+english-latvian post-editing project,1
+end-to-end generative ellipsis,1
+usage expression sentences,1
+winer,1
+gecor,1
+local monotonic attention mechanism,1
+taskmaster-1,1
+diagnostic benchmark,1
+clutrr,1
+tag-enhanced tree-structured neural networks,1
+purpose of actions,1
+fair generalization tasks,1
+partial tree extraction,1
+latent confounds,1
+conference schedules,1
+shifted label distribution,1
+dialog intent induction,1
+relevant keywords,1
+learning from small sample,1
+text emotion distribution,1
+report errors,1
+logic-driven framework,1
+proseqo,1
+generic interface,1
+hierarchically-refined label,1
+grawitas,1
+twine,1
+core semantic first,1
+abstract programs,1
+cassandra,1
+numerical claims,1
+adocs,1
+nearly-unsupervised hashcode representations,1
+deep learning processes,1
+space specialisation,1
+latent patterns of behavior,1
+sieve prediction ranking,1
+gene-environment interaction,1
+embedding-based graph propagation,1
+complement control,1
+introspective extraction,1
+indirectness,1
+demographic word embeddings,1
+variant-normalization pairs,1
+semantic document distance measures,1
+unsupervised document revision detection,1
+cooperative rationalization,1
+manually labelled multi-turn dialogue dataset,1
+interval bound propagation,1
+symbol substitutions,1
+mutual information neural estimation,1
+multi-passage bert,1
+globally normalized bert model,1
+micron,1
+constrained graph algebra,1
+disaster domain,1
+domain-specific implicit opinions,1
+modeling argument expectations,1
+sprinkling,1
+defeasible acerules,1
+probabilistic model theory,1
+grounded neural language models,1
+transfer parsing,1
+resource management system,1
+event centric entity linking,1
+language invariant neural event detection,1
+connexive logic,1
+aspects of creativity,1
+thirukkural,1
+short political statements,1
+middle egyptian hieroglyphs,1
+predpatt,1
+drcove,1
+forest-to-tree algorithm,1
+causal lexical markers,1
+simulation semantics,1
+indirect commands,1
+doggies,1
+wikidata lexemes,1
+swiss standard german,1
+thesaurus verification,1
+schema.org,1
+network visualisations,1
+augmented word representation approach,1
+samajh-boojh,1
+distributional lesk,1
+relational context,1
+role semantics,1
+lstm-based importance weighting,1
+skip-prop,1
+causality estimation,1
+internal scope,1
+absorbing scope,1
+ud dependencies,1
+大數據研究 (data scientific study),1
+how2 speech translation system,1
+core arguments,1
+oppo nmt system,1
+聊天記錄解構 (chat log disentanglement),1
+newswire treebanks,1
+argument scrambling,1
+訊息配對相似度估計 (message pair similarity estimation),1
+物化 (transitivization),1
+clean speech transcripts,1
+arc-eager transitions,1
+arc-standard spinal parsing,1
+opposites,1
+sense-aware statistical machine translation,1
+adaptive context-dependent clustering,1
+four-word idioms,1
+文脈分析,1
+unity in diversity,1
+automatic dependency-graph rewriting,1
+hungarian copula constructions,1
+udlex,1
+nmt-based word segmentation,1
+data barrier,1
+flux of syntactic dependencies,1
+dargwa mehweb,1
+specaugment,1
+foundational texts,1
+if\ldots,1
+then\ldots type,1
+indirect training data,1
+intensifier collocations,1
+parametric nouns,1
+type price,1
+chinese descriptive,1
+segmentation granularity,1
+iwslt 2019 end-to-end speech translation task,1
+understanding gesture,1
+attitude prediction,1
+historical context,1
+twic east dinka,1
+mandarin chinese adverb pianpian,1
+southern alta,1
+korean scrambling constructions,1
+mandarin vo compound variations,1
+tweet extraction,1
+gender violence,1
+kyoto text analysis toolkit,1
+vis-\`a-vis evaluation,1
+propagation of emotions,1
+topic-projection,1
+hindi movie scripts,1
+hindi-english asr (automatic speech recognition),1
+statement purposeless,1
+computer science graduation admission acceptance,1
+statement of purpose,1
+geown,1
+university classes,1
+local bilingual tabloid,1
+masbate lexicon,1
+intrusions,1
+online persona identification,1
+rules generation machine learning technique,1
+indonesian transcribed interviews,1
+learning weight,1
+foreign influence,1
+cantonese alveolar affricates,1
+epistemically biased questions,1
+korean caki,1
+korean -(ul) kes i,1
+plural copying,1
+the will of the river,1
+near-synonymous sentence-final particles,1
+"""bale""",1
+"""eryi""",1
+"""cut"" verbs",1
+princeton annotated gloss corpus project,1
+keywords database,1
+increments,1
+discrete life,1
+open set text classification,1
+notion of semantics,1
+corola-based word embedding vectors,1
+wordnet random walk corpora,1
+danish noun frames,1
+gradient judgements,1
+semantic paraphrase,1
+continuous world,1
+english propbank,1
+polish word sense disambiguation,1
+sets of lexically related words,1
+graph databases,1
+sense vocabulary compression,1
+concept map mining,1
+bimodal autoencoder,1
+relevance spaces,1
+task of microworlds lexicon expansion,1
+autopilot thoughts,1
+reader groups,1
+language-for-specific-purpose classroom,1
+sinhala word joiner,1
+"""malayalam""",1
+"""verbframes""",1
+bulgarian wikipedia,1
+resource linking,1
+general purpose asr errors,1
+posteriors,1
+opposition structure,1
+music recommendation system,1
+domain dependent dialogue act classification,1
+handwritten manipuri meetei-mayek character recognition,1
+gradient feature extractor,1
+log kernel,1
+coarticulatory propensity,1
+mongolian wordnet,1
+personal name modeling,1
+time delay neural network,1
+perceived singing voice identity,1
+exponential family tensor factorization,1
+excluding out of domain training data,1
+talerum,1
+iness search,1
+graph and text joint embedding,1
+stoneskipping,1
+camouflaged spam content,1
+discharge instructions,1
+mask-predict,1
+nuclear captains,1
+double trouble,1
+problem of construal,1
+commitmentbank,1
+"""what if..."" reasoning",1
+`dual-life' nouns,1
+wiqa,1
+matchlstm,1
+antiqua models,1
+fraktur models,1
+lower-arity universal schemas,1
+august strindberg,1
+norwegian dependency parsing,1
+kille,1
+general domain event analysis,1
+crowdsourced benchmark,1
+iconic locations,1
+carb,1
+docforia,1
+multilayer document model,1
+finnish resources,1
+recorded icelandic speech,1
+dep_search,1
+vossian antonomasia,1
+large dependency parsebanks,1
+generative etymological dictionary,1
+buster keaton,1
+joint global and local optimization,1
+nuclear submarines,1
+online persuasion strategy,1
+email itineraries,1
+the status of the project,1
+optimal rhetoric representation,1
+worth-checking claims,1
+paraphrase generation datasets,1
+enhanced clustering,1
+parroting,1
+click bait filter,1
+calculator,1
+clause-wise decoding,1
+domain control,1
+qualitative relationship questions,1
+quartz,1
+quoref,1
+rewrite questions-in-context,1
+structural knowledge graph-aware network,1
+multigranular interaction,1
+russian-tatar socio-political thesaurus,1
+query-focused sentence compression,1
+electoral polls,1
+sports match timelines,1
+parameter transfer,1
+feature-based scansion,1
+question-type,1
+open stance classification,1
+structured adversaries,1
+rhyming constraints,1
+multi-lingual phrase-based statistical machine translation,1
+forum data,1
+most important moments,1
+students' collaborative chats,1
+altlexes,1
+targeted common sense grounding,1
+communism,1
+highly relevant questions,1
+solomon marcus study case,1
+swegram,1
+effective models,1
+purely neural mt engines,1
+variable mini-batch sizing,1
+novel sequence generation framework,1
+meant 0,1
+output language,1
+bleu2vec,1
+continuous vector space steroids,1
+lig-cristal,1
+wmt17 bandit learning task,1
+thread detection,1
+icu management,1
+failure transducers,1
+high-coverage search space,1
+noncrossing parses,1
+realistic urban navigation,1
+humanitarian-assistance program literature,1
+paradigm extraction,1
+query containment,1
+gals,1
+gan-based listwise summarizer,1
+基於對抗式學習之整列式摘要法,1
+multi-component metric,1
+inverse direction model,1
+spectrogram masking,1
+temporal lowpass filtering,1
+university of rochester,1
+qt21 combined machine translation system,1
+taiwan news report,1
+tartu-riga-zurich translation systems,1
+sogou,1
+pjiit,1
+hunter mt,1
+microphone howling suppression,1
+insurance industry,1
+object posterior predictions,1
+neural mt training task,1
+pre-trained word vector model,1
+spelling-aware construction,1
+softened regex equivalence,1
+linear ensembles,1
+rldcp r package,1
+personalized questions,1
+relevant web information,1
+mtuna corpus,1
+deep gating network,1
+satos,1
+charge-based prison term,1
+american football broadcasts,1
+pompeu fabra,1
+classic reg algorithms,1
+fuzzy properties,1
+sports commentator bias,1
+real-valued syntactic word vectors (rsv),1
+finnish semantic tagger,1
+revisited,1
+twitter classification,1
+dens,1
+greek epigraphy,1
+millions of browse pages,1
+embedding lexical features,1
+topically indifferent,1
+co-poetryme,1
+composition of poetry,1
+spoken installments,1
+"""right"" answers",1
+consistency cues,1
+stancy,1
+runyankore grammar engine,1
+healthcare messages,1
+hard combinatorial constraints,1
+code2text challenge,1
+source libraries,1
+natural anagrams,1
+g-tuna,1
+whole story,1
+non-trivial,1
+realistic practices,1
+refine network,1
+generate approach,1
+gpt-2 embeddings,1
+entity-consistent,1
+graphonological levenshtein edit distance,1
+mixture of empathetic listeners,1
+cross-granularity embedding similarity,1
+translator acceptability,1
+multi-hop selector network,1
+legally safer alternative,1
+real industrial data,1
+lotha,1
+expected label proportions,1
+future tokens,1
+hebrew nlp,1
+parallel document alignment,1
+mont bleu,1
+reachable high-bleu translations,1
+vizseq,1
+phi-phrase boundaries,1
+ao,1
+shopping,1
+distantly-labeled reviews,1
+vaidya,1
+cosmopolitan mumbai,1
+orthodox delhi,1
+techcity bangalore,1
+city specific societal sentiment,1
+wisdom of students,1
+de-identifying clinical records,1
+gha\~nanta words,1
+nagamese,1
+government portals,1
+code-mixed topic-based aspect clusters,1
+bangla sentence comprehension,1
+elm feature space,1
+kb retriever,1
+verbframator,1
+verb frame annotator tool,1
+graphical pronoun analysis tool,1
+cognitive translation effort,1
+activity units,1
+fluent metric,1
+burmese (myanmar) input method,1
+ju-usaar,1
+my-akkhara,1
+talp--upc spanish--english wmt biomedical task,1
+research use case specific customisation,1
+biomedical free text annotation interface,1
+cobaltf,1
+medcattrainer,1
+factured models,1
+beta parameters,1
+massistant,1
+domain-specific paraphrase,1
+lida,1
+journalist-in-the-loop,1
+joey nmt,1
+pronoun language model,1
+neuronblocks,1
+scorpio,1
+illc-uva adaptation system,1
+opennre,1
+uer,1
+wmt16 tuning shared task,1
+english-romanian wmt translation task,1
+metamind,1
+teaspn,1
+nyu-mila,1
+tanbih,1
+four varieties,1
+redcoat,1
+merged bilingual trees,1
+booking,1
+polyresponse,1
+edit distance transducer,1
+paraqg,1
+cuni-lmu,1
+context-assisted multiple instance learning,1
+knowledge-attention,1
+bangla traditional grammar,1
+non-factive al-ta,1
+controllable content selection,1
+korean locative construction,1
+select and attend,1
+moverscore,1
+paper-reviewer matching approach,1
+血 xue `blood',1
+骨 gu `bone',1
+know,1
+hssa tree structures,1
+neg-raiser,1
+global representation,1
+maximal exclusion,1
+everyone,1
+post-hoc feature importance,1
+built-in feature importance,1
+english island sentences,1
+味 wei `taste',1
+metaphorical uses,1
+korean modalized question,1
+spoas,1
+neural naturalist,1
+three east asian efl learners writings,1
+retrospective curiosity-encouraging imitation learning,1
+internet language,1
+ways,1
+adnominal appendix,1
+smtpost,1
+filipino part-of-speech tagging,1
+built examples,1
+attested examples,1
+khmer orthographic words,1
+possessor interpretation,1
+style specification,1
+czech discourse connectives,1
+sfp-ne,1
+multiple emotions,1
+btg-based preordering,1
+long-tailed relations,1
+doc2edag,1
+trigger-aware lattice neural network,1
+diversified proficiency,1
+endurant,1
+perdurant,1
+ontological motivation,1
+chinese excessive resultative construction,1
+disjuncts,1
+multiple sense embeddings,1
+manner/result complementarity,1
+neural expectation-maximization framework,1
+condition tuples,1
+fact tuples,1
+detected mentions,1
+haskell programs,1
+mixed script information retrieval,1
+uncommon entities,1
+methodological meta-knowledge,1
+theory development,1
+extraction order,1
+self-attention enhanced cnns,1
+hyperplanes,1
+reinforced label assignment,1
+event based emotion classification,1
+politeness systems,1
+enteval,1
+word embedding offsets,1
+table entity pairs,1
+2-hop distant supervision,1
+focal prominence,1
+mandarin minimizers,1
+desert,1
+parsing combined,1
+event quantification,1
+apsyn,1
+usable goods,1
+inmt,1
+example weighing,1
+law searching,1
+triplenet,1
+non-answerable predictions,1
+relation module,1
+argrewrite,1
+web-based revision assistant,1
+task completion platform,1
+self-serve,1
+illinois math solver,1
+interlocutor-aware context,1
+knowledge-guided linguistic rewrites,1
+zara the supergirl,1
+empathetic personality recognition system,1
+visual programming framework,1
+simvecs,1
+syntactic segments,1
+non-redundant segments,1
+contextualized cross-lingual event,1
+evolving topical influence,1
+goal-embedded dual hierarchical model,1
+linguistica 5,1
+presence of solutions,1
+surface coherence,1
+facebook activity event extraction system,1
+產品同義詞擴增 (increases the synonym of products),1
+learnable residual structure,1
+input-dependent rewards,1
+formality-tuned summaries,1
+generator-evaluator framework,1
+samples to label,1
+cart,1
+pre-service principals certification program,1
+conceptual-level text cloud,1
+graph diffusion,1
+resource semantics,1
+rstweb,1
+instant feedback,1
+entity-balanced gaussian plsa,1
+second-order document representations,1
+german gold standard,1
+controlled variance,1
+equate,1
+closed world assumption,1
+label co-occurrence,1
+chinese affective resources,1
+script participants,1
+policy preference,1
+constructive discussions,1
+bytepair encoding,1
+oxford-style debates,1
+unsupervised compound splitting,1
+disentangled facets,1
+phonological pun,1
+l2 english indefinite pronouns,1
+large-scale representation learning,1
+paraphrastic bitexts,1
+cross-task embedding projection,1
+reflective listening,1
+instructional video captions,1
+past references,1
+stranse,1
+black holes,1
+white rabbits,1
+bridge correlational neural networks,1
+entity type sequence,1
+mrmep,1
+drop-out conditional random fields,1
+arbitrariness in language,1
+conventional iconicity,1
+knowsemlm,1
+analyzing news framing trends,1
+expectation-regulated neural model,1
+deceptive role detection,1
+membership query synthesis,1
+intra-topic variability normalization,1
+multi-level hyperpriors,1
+biofid dataset,1
+語音調變頻譜強化 (enhancing the modulation spectrum of speech signals),1
+shef-multimodal,1
+quantificational features,1
+famulus,1
+complement types,1
+easse,1
+factored word representation,1
+hierarchical moses,1
+phrase table smoothing,1
+birch,1
+auxiliary text rewriting tool,1
+parameter combinations,1
+verbal readings,1
+medium,1
+high-fidelity,1
+lexical axiom construction,1
+verb glosses,1
+fracas entailment problems,1
+training-space restrictions,1
+uu submission,1
+resource-light neural networks,1
+simplenets,1
+gunrock,1
+docal,1
+tf/idf-weighted cosine distance,1
+yoda system,1
+shared task on document alignment,1
+luc@wmt 2016,1
+iflylegal,1
+term position similarity,1
+ubiquitous keyword spotting,1
+in-browser personalization,1
+honkling,1
+flexible highlighting annotator,1
+hare,1
+shef-mime,1
+ualacant word-level,1
+complex and engaging long conversations,1
+local scaling,1
+alter,1
+ptt corpus-based study,1
+multi-channel source clustering,1
+polemo 0,1
+語意變化 (change in meaning),1
+detect opinion snippet,1
+model stability,1
+字元階層 (character-level),1
+analogy-preserving sentence embeddings,1
+文脈訊息擷取 (linguistic features extraction),1
+prime batch sizes,1
+allennlp interpret,1
+sequence information loss,1
+slang detection,1
+affricate,1
+網路新興語言,1
+耍'之語意辨析,1
+批踢踢語料庫,1
+verb shua3,1
+認真 (renzen),1
+核心詞彙選擇 (core vocabulary compilation),1
+詞語分布均勻度 (dispersion measures),1
+automatic sung lyrics verification,1
+text-to-pictograph translation,1
+learning question passage classification,1
+orthogonality regularizer,1
+absapp,1
+head properties,1
+political trolls,1
+icu patient risk stratification,1
+ppmi-enabled incremental semantic space construction,1
+compositional-distributional semantic model,1
+content assessment,1
+heterogeneous clinical notes,1
+cluster-gated,1
+extended corpus,1
+v-dao structure,1
+歌詞演唱錯誤偵測,1
+knowledgenet,1
+beto,1
+model morphology,1
+moodswipe,1
+knowyournyms,1
+game of semantic relationships,1
+projector,1
+dlatk,1
+quint,1
+predictive causal factors,1
+nl querying,1
+joint key element extraction,1
+bundling linguistic trees,1
+user-specified emotions,1
+parlai,1
+heidelplace,1
+neuroner,1
+supwsd,1
+event news tweets,1
+langpro,1
+structure-based abstract pattern,1
+struap,1
+zipporah,1
+pullnet,1
+counselor behaviors,1
+motivational interviewing encounters,1
+text distortion,1
+non-commutative bilinear model,1
+q&a models,1
+pso (particle swarm optimization),1
+cosmos qa,1
+scottish independence,1
+nmt decoding platform,1
+gap transition,1
+private-attribute inference,1
+computational sarcasm,1
+nltk framenet api,1
+argotario,1
+graphdocexplore,1
+sgnmt,1
+fonts,1
+improved reporting,1
+quasi-second-order parsing,1
+manifold dimensionality retention,1
+talk2car,1
+back-translated bitext,1
+token-level intent detection,1
+fine-grained subcharacter components,1
+stack-propagation framework,1
+high-risk learning,1
+vecshare,1
+multi-view sequential inference,1
+heterogeneous supervision,1
+understanding humor,1
+fully differentiable neural easy-first taggers,1
+ur-funny,1
+fixed-size memory representation,1
+causal framework,1
+adversarial semi-supervised learning approach,1
+very scarce supervised data,1
+self-driving car,1
+fauxtography,1
+detected objects,1
+text-to-image grounding,1
+order information,1
+wikipedia sentences,1
+train-o-matic,1
+subword rnns,1
+predicting performance drop,1
+typology of tense,1
+source-side latent graph parsing,1
+continuous optimisation,1
+misty,1
+attacking,1
+regions in space,1
+mixture density networks,1
+obj2text,1
+object layouts,1
+affinity-preserving random walk,1
+path queries,1
+answer-aware loss,1
+gpus (graphics processing units),1
+price of universality,1
+imat,1
+delexicalized word embeddings,1
+multi-view sentiment corpus,1
+full delexicalisation,1
+narrative transcripts,1
+concept pointer network,1
+auto-tuned reinforcement learning,1
+ncls,1
+amr-dependency parse alignment,1
+rnn based question generation model,1
+character-word,1
+annotating local acceptability,1
+tdparse,1
+annotating derivations,1
+ampersand,1
+modeling frames,1
+quantitative word association evaluation,1
+evaluation by association,1
+knowledge-infused recurrent models,1
+iterative matching,1
+anaphora probabilities,1
+language vectors,1
+large vocabulary translation,1
+elided subjects,1
+reinforced summarization models,1
+deep copycat networks,1
+dual graph representations,1
+(un)important content,1
+column,1
+neural tree indexers,1
+dimensions of attention,1
+tor network,1
+linguistically-motivated artillery,1
+uninterpretable,1
+gaokao,1
+npis,1
+high-quality surface,1
+bipar,1
+lanidenn,1
+nonsymbolic text representation,1
+ordered relation paths,1
+formal queries,1
+frequent query substructures,1
+concept definitions,1
+shotgunwsd,1
+dna sequencing,1
+character window,1
+five analysis methods,1
+repeated nouns,1
+pseudo-sql queries,1
+nl2psql,1
+numnet,1
+noisy product listings,1
+descriptive clustering,1
+smarties,1
+asynchronous deep interaction network,1
+joint biconvex,1
+scenario construction,1
+eye of the beholder,1
+modeling adjectives,1
+contrastmedium algorithm,1
+malevic,1
+red square,1
+discrete hard em approach,1
+cold start knowledge base population,1
+row-less universal schema,1
+one-sentence biographies,1
+deep input linearization,1
+kagnet,1
+noisy-context surprisal,1
+on-demand injection,1
+recognising textual entailment,1
+denotational probabilities,1
+values and ethics,1
+adagrad,1
+author-aware aspect,1
+personal,1
+substance use prediction,1
+low comparability,1
+content word filtering,1
+learning weighted topic links,1
+pseudo data,1
+attention optimization,1
+steganography,1
+word borrowing,1
+test-time budgets,1
+variable beam search,1
+japanese non-standard usages,1
+modern films,1
+basic user traits,1
+objective recommendation quality,1
+modeling the task,1
+neuro-imaging signal,1
+set cover problem,1
+steering output style,1
+beam size,1
+iteratively unfolding,1
+syntacto-discourse treebank,1
+dialogue tasks,1
+data augmentation policies,1
+casa-nlu,1
+predicting armed conflict participants,1
+quantum language models,1
+pmi matrix approximations,1
+progressive model,1
+shortest-path graph kernels,1
+dirichlet latent variable,1
+regression-based annotation aggregation,1
+medical family history,1
+unfolding,1
+fine grained citation span,1
+country-level socio-economic indicators,1
+deep recurrent generative decoder,1
+maximum margin reward networks,1
+modeling overall argumentation,1
+dual tensor model,1
+edit importance,1
+insight extraction system,1
+story detector,1
+predict charges,1
+depth-scaled initialization,1
+semantically deviating outlier documents,1
+context-aware monolingual repair,1
+provision of choices,1
+sharp models,1
+similarity based auxiliary classifier,1
+dull hardware,1
+becas,1
+bentz,1
+image pivoting,1
+focused machine reading,1
+charmanteau,1
+us electoral manifestos,1
+joint encoding,1
+iterated dilated convolutions,1
+zero pronoun prediction,1
+dynamic past,1
+collaborative memory network,1
+agent-aware dropout dqn,1
+debate automation,1
+english tag questions,1
+cm-net,1
+transfer of verb classes,1
+deterministic logging,1
+net parsing,1
+chinese user generated categories,1
+online cybercrime marketplaces,1
+mention separators,1
+minie,1
+nite,1
+neural inductive teaching framework,1
+domain specific ner,1
+uniblock,1
+kgeval,1
+background text sources,1
+question premises,1
+rare entity prediction,1
+two-stage synthesis networks,1
+dykgchat,1
+dually interactive matching network,1
+ranking kernels,1
+hybrid preference,1
+query revision,1
+verb attribute induction,1
+pacrr,1
+continous grounded meaning representations,1
+album summarization,1
+multi-turn incomplete utterance restoration,1
+video highlight,1
+audience chat reactions,1
+entailment rewards,1
+identity fraud,1
+matching-to-generation framework,1
+axiomatic knowledge,1
+template prior,1
+discrete cvae,1
+low-rank hoca,1
+rl-based dialog systems,1
+conversational text-to-sql challenge,1
+cosql,1
+neural pu learning,1
+double dictionary lookup,1
+deeppath,1
+self-supervised bot-play,1
+approximate embedding layer,1
+plural noun,1
+mad libs humor,1
+replier-consistency,1
+sparse composite document vectors,1
+utterance addressee,1
+segmentation-free word embedding,1
+dialogue knowledge transfer networks,1
+position-aware neural ir model,1
+unicode block information,1
+encoding sentences,1
+query-guided capsule network,1
+color naming,1
+modifier dynamics,1
+bandit neural machine translation,1
+simulated human feedback,1
+wslln,1
+extraness,1
+reo-relevance,1
+pledge specificity prediction,1
+civilians,1
+featurization,1
+decoupled box proposal,1
+any-domain representations,1
+crf autoencoder,1
+hablex,1
+vecalign,1
+argument-based features,1
+multi-type multi-span network,1
+accounts of sexism,1
+word association strengths,1
+deep ordinal regression,1
+asynchronous collection,1
+tensor fusion network,1
+modeling annotation contexts,1
+latent suicide risk detection,1
+multiple personas,1
+parallelly annotated stylistic language dataset,1
+ph.d,1
+macro grammars,1
+holistic triggering,1
+bachelor,1
+helpfulness assessment,1
+reinforced product metadata selection,1
+end-to-end deep framework,1
+group-level objective,1
+depressed tumblr users,1
+hybrid ner,1
+attention scores,1
+cross-linguistically small world networks,1
+computational microgenetic learning analytics,1
+vocabulary commonality index,1
+icon corpus,1
+academic written italian,1
+modern topics,1
+topical trends over time,1
+deep temporal-recurrent-replicated-softmax,1
+local explanations,1
+sentences with gapping,1
+author commitment,1
+latvian language learners,1
+sla corpus,1
+prior beliefs,1
+speaking atlas,1
+chanot,1
+noise-robust morphological disambiguation,1
+missing paths,1
+reconstructing elided predicates,1
+escape,1
+target foresight,1
+shared-private encoder-decoder,1
+customized alignment,1
+kit-multi,1
+semr-11,1
+kbgan,1
+open-vocabulary neural language models,1
+lematus,1
+bilingually scarce scenarios,1
+tensor product,1
+tamil pos tagging,1
+retrieved translation pieces,1
+dynamic beam allocation,1
+rich content,1
+vietnamese dialog act corpus,1
+dense information flow,1
+adele corpus,1
+dldp survey,1
+digital use,1
+hansard uk parliamentary debate transcripts,1
+psycho-demographic correlates,1
+spokes mix,1
+monpage_ha database,1
+non-sequential approach,1
+diverse extractive strategies,1
+found audio data,1
+coloss,1
+3 million summaries,1
+symbol-digit dual-task,1
+norec,1
+understanding natural language image editing,1
+simpa,1
+brwac corpus,1
+risam'alheild,1
+meaning-based statistical,1
+xhosa lexicographical data,1
+ldm-pt,1
+synpaflex-corpus,1
+expert gaze,1
+congo-brazzaville,1
+bantu c25,1
+sensaldo,1
+neural particle smoothing,1
+multi-layered scheme,1
+monte carlo syntax marginals,1
+polarity propagation,1
+smile swiss,1
+ipsl,1
+full-abstract,1
+globally acquired statistical resource,1
+lexicostatistics,1
+deep jslc,1
+global relation embedding,1
+refined word vectors,1
+carcinologic speech severity index project,1
+speech after cancer,1
+gated orthogonalization,1
+translation discovery,1
+translingual compound analysis,1
+model of classifier production,1
+instability,1
+t-rex,1
+global communication plan,1
+semi-parametric multi-head matching networks,1
+passage completion,1
+records of reading,1
+gold anaphora annotation layer,1
+event hoppers,1
+co2-footprint estimation,1
+tap-dlnd 0,1
+theories of speaker choice,1
+citation-distance networks,1
+publication impact,1
+three factors,1
+fine-to-coarse manifesto,1
+at the paragraph level,1
+concept stock recommendation,1
+visualizing entities,1
+environmental corpora,1
+digisami corpus,1
+epic epigraph graph,1
+annotated image description corpus,1
+rich face descriptions,1
+executable formal queries,1
+fallacious argumentation,1
+automatic geolocalisation,1
+european french,1
+explicit detections,1
+object counts,1
+very low resource language speech corpus,1
+pragmatic color references,1
+chahta anumpa,1
+bulbasaa,1
+learning time-decay attention,1
+basaa,1
+perceived deception,1
+implicit warrants,1
+clicr,1
+domain-specific smt,1
+generative bridging network,1
+mediawikis,1
+muslim stereotyping,1
+microportrait extraction,1
+tell-tale signs,1
+callhome corpus,1
+cultural microblog retrieval,1
+computer security,1
+vision-grounded dataset,1
+denial-of-service attacks,1
+literality,1
+interpretable social science,1
+universal morphological lattices,1
+process paragraph comprehension,1
+1918,1
+processing perspective,1
+neural storyline extraction model,1
+wikidragon,1
+scientific conference's homepages,1
+complete acl anthology reference corpus,1
+bivalency,1
+elden,1
+time anchor annotation,1
+shami,1
+levantine arabic dialects,1
+city-level dataset,1
+dictionary of regionalisms of france (drf),1
+disentangle interleaved conversational threads,1
+egregious conversations,1
+page stream segmentation,1
+chaff,1
+wheat,1
+tenders electronic daily,1
+sentence regression,1
+relational summarization,1
+swrl,1
+ask questions,1
+wordnet-shp,1
+evidential claim verification,1
+access to support,1
+gang-involved escalation,1
+injecting commonsense knowledge,1
+textual analogy parsing,1
+analogous facts,1
+large-scale adversarial dataset,1
+two-wing optimization strategy,1
+twowingos,1
+generalization capability,1
+associative multichannel autoencoder,1
+key2vec,1
+simnet,1
+image-topic merging network,1
+standard table summarization,1
+preco,1
+preschool vocabulary,1
+ranked keyphrase extraction,1
+multipartite graphs,1
+narrative similarity,1
+movie remakes,1
+detokenizer,1
+cogcomptime,1
+understanding time,1
+feudal reinforcement learning,1
+sisyphus,1
+role-playing game transcripts,1
+kt-speech-crawler,1
+learning character-action interactions,1
+aplenty,1
+magnitude,1
+non-local transitions,1
+cytonmt,1
+higher-order coreference resolution,1
+pizzapal,1
+conversational pizza ordering,1
+self-attention mechanism,1
+neural segmental hypergraphs,1
+args.me,1
+retrofitting embeddings,1
+adaptive document retrieval,1
+hidden unit contribution,1
+neural latent relational analysis,1
+bidirectional matchings,1
+news headline popularity,1
+agreement/disagreement inference,1
+in-class similarity,1
+syntactically constrained bidirectional-asynchronous approach,1
+variational sequential labelers,1
+auto-dialabel,1
+defoiling,1
+foiled image captions,1
+s2spmn,1
+graph-theoretic summary evaluation,1
+multiple system summary lengths,1
+latent,1
+context zoom-in network,1
+ranking paragraphs,1
+phrase-indexed question answering,1
+mtnt,1
+english-only social media posts,1
+minimal guidance,1
+cluse,1
+auxiliary domain discriminators,1
+wikiatomicedits,1
+community member,1
+xl-nbt,1
+cross-lingual neural belief tracking framework,1
+contextual parameter generation,1
+targeting difficult words,1
+word-level domain context discrimination,1
+typesql,1
+norma,1
+neighborhood sensitive maps,1
+question-answer meaning representations,1
+sentencepiece,1
+juman++,1
+armanpersonercorpus,1
+cross-session search task extraction,1
+wordnet of interest,1
+entity-relation common-sense representation model,1
+classical structured prediction losses,1
+embedded-state,1
+latent conditional random fields,1
+variable typing,1
+dynamic entity relatedness ranking,1
+adversarially regularising,1
+slot alignment,1
+quickedit,1
+adversarially crafted input,1
+biased ratings,1
+churn intent detection,1
+lyrics language model,1
+latent entities extraction,1
+temporally sensitive submodularity framework,1
+pluricentric global wordnet,1
+lexvo,1
+bll thesaurus,1
+hypernymy prototypicality learning,1
+entity-annotated persian dataset,1
+post-specialisation,1
+reproducible automatic error detection task,1
+diagonal slice matrices,1
+m-cner,1
+slugnerds,1
+forfun 0,1
+prague database of forms and functions,1
+errator,1
+mining possessions,1
+sandhikosh,1
+sanskrit sandhi tools,1
+flickr30k entities corpus,1
+data-driven cross-treebank annotation transfer,1
+quantitative typological trends,1
+salient-clue mechanism,1
+paragraph,1
+semantic writing aid,1
+tranx,1
+random,1
+visual referring expression recognition,1
+dropout mechanism,1
+neural network representations,1
+image-based verb prediction models,1
+syntaviz,1
+syntax-driven hierarchical ontology,1
+data2text studio,1
+models of associative meaning,1
+slot-gated modeling,1
+intel ai lab,1
+moraz,1
+inner workings,1
+dere,1
+task and domain-independent slot filling framework,1
+gated multi-task network,1
+neural maximum subgraph parsing,1
+engaging dialogue partner,1
+class definitions,1
+label-aware double transfer learning,1
+gyafc dataset,1
+weakly-supervised neural semantic parsing,1
+generative ranker,1
+composite labels,1
+evolutionary data measures,1
+intervention similarity,1
+changes in view,1
+applause,1
+target-side morphological information,1
+learned high dimensional encoding,1
+embeddings augmented by random permutations (earp),1
+aggregated semantic matching,1
+over-stability strategies,1
+lifted matrix-space model,1
+high confidence relation extraction,1
+text mining account,1
+blacklist method,1
+hft-cnn,1
+relative temporal information,1
+budget-related evaluation metrics,1
+out-of-context errors,1
+matics software suite,1
+mgad,1
+misa,1
+"""isa"" extraction",1
+es-port,1
+initial test collection,1
+wikipedia title embedding,1
+conceptual pacts,1
+frnewslink,1
+kth tangrams,1
+press articles,1
+spoken malaysian cantonese,1
+related printed documents,1
+multi modal distance,1
+visual choice,1
+dictionary creating methods,1
+demands,1
+iate rdf,1
+welsh semantic annotation system,1
+conll-u-compatible morphological lexicons,1
+sembank,1
+upper tanana,1
+social image tags,1
+citation-based tasks,1
+japanese word similarity dataset,1
+pdfdigest,1
+interlinked synonym lexicon network,1
+layout-aware pdf-to-xml textual content extractor,1
+tip of the iceberg,1
+"""portrait approach""",1
+"""multichannel discourse""",1
+ai2 diagrams dataset,1
+tq-autotest,1
+latin paraphrases,1
+stemma generation,1
+mycancor,1
+writing to corpus,1
+technological platform,1
+informative behaviour,1
+someweta,1
+crowdsourced happy moments,1
+happydb,1
+mobile observation support system,1
+fishwatchr mini,1
+babycloud,1
+infant word comprehension-to-production index,1
+metalogue debate trainee corpus,1
+noun learning predominance,1
+cross-lingual cdi database,1
+tocfl learner corpus,1
+miaparle,1
+support-based entailment,1
+discrimination of stress contrasts,1
+educational scoring toolkit,1
+arap-tweet,1
+transc\&anno,1
+sudachi,1
+voice builder,1
+clinical operating room,1
+emo&ly,1
+reanalysis,1
+bktreebank,1
+gecotagger,1
+german verb complements,1
+aet,1
+web-based adjective exploration tool,1
+zap,1
+handwritten cuneiform character imageset,1
+platform independent dependency annotation tool,1
+archetypes,1
+ancora corpus,1
+ocr word segmentation errors,1
+fonbund,1
+ufsac,1
+fastsense,1
+manzanilla,1
+lremap,1
+imaginative sentences,1
+fluid annotation,1
+computer-assisted speaker diarization,1
+performance impact,1
+croatian word embeddings,1
+syntactically-related word pairs,1
+metadata collection records,1
+nine years,1
+wikiart emotions,1
+tac kbp,1
+sluice occurrences,1
+users' interest level,1
+physical distribution,1
+driver's affective state,1
+swedish cookie-theft corpus,1
+clause level emotion annotation,1
+chinese word fluidity,1
+regional dialect perception data,1
+facst,1
+e-magyar,1
+modifier deletion,1
+open subtitles paraphrase corpus,1
+spade,1
+client specific mt solutions,1
+etpc,1
+paraphrase typology,1
+japanese feature change knowledge base,1
+jfckb,1
+tilde mt platform,1
+public sector multilingual information management,1
+key resource families,1
+virtual research infrastructure,1
+pos unification,1
+boarnsterhim corpus,1
+panel study,1
+local developers,1
+multidimensional affect recognition,1
+tkb building,1
+automatic reliability check of transcript,1
+resource interoperability,1
+legal sources,1
+lightweight modeling middleware,1
+eurogames16,1
+pdfanno,1
+postwita-ud,1
+measure of confidence for corpus analysis,1
+novel conversation sentences,1
+time-continuous,1
+lightweight grammatical annotation,1
+wasa,1
+term structure,1
+obama's humorous speeches,1
+semiotic type,1
+eudat's generic execution framework,1
+weblicht workflow engine,1
+statistical rescoring,1
+mpst,1
+sustainable benchmarking,1
+parsivar,1
+sentiarabic,1
+measuring evaluability,1
+bdproto,1
+type of advice,1
+translation matrix,1
+drug usage guidelines,1
+mirastext,1
+basic text understanding,1
+essay attribute scores,1
+scoped meaning representations,1
+asap automated essay grading dataset,1
+senteval,1
+jesc,1
+scalable sign recognition,1
+expressive conducting gesture dataset,1
+leveled reading corpus,1
+polar-opposite emotion dimensions,1
+northern haida verb morphology,1
+semi-autonomous system,1
+extended iso-24617-2 dialogue act tags,1
+niki,1
+julie corpus,1
+chebi database,1
+metabolites,1
+cancer information,1
+expert and novice corpora,1
+acorformed system,1
+bpemb,1
+training doctors,1
+break bad news,1
+handwritten picture postcards,1
+tf-lm,1
+tensorflow,1
+grapheme-level awareness,1
+recorded debating dataset,1
+medical entity corpus,1
+jdcfc,1
+linked dialog acts,1
+hierarchical schema,1
+automatic formant trackers,1
+south african corpus,1
+time axis,1
+pre-segmenting,1
+very long transcribed speech recordings,1
+implicit time-sensed resource,1
+sentence level temporality detection,1
+canonical indian english accents,1
+indian language nlp,1
+german radio,1
+sfb732 silver standard collection,1
+grain release,1
+mirasvoice,1
+large automatically-acquired all-words list,1
+dialog intent structure,1
+parallel monolingual gan,1
+tokenization-free pre-trained subword embeddings,1
+contextualized usage-based material selection,1
+human-involved-creation dataset,1
+training slu systems,1
+feature-space speaker adaptation,1
+voice components,1
+research subject,1
+mutual gaze,1
+live blog corpus,1
+tsix,1
+multi-floor interaction,1
+dyadic team corpus,1
+auto-hmds,1
+pyreval,1
+kaist treebank,1
+cefr-based lexical simplification dataset,1
+fair and responsible data science,1
+fontlex,1
+generative lexicon event structures,1
+research institution,1
+open asr,1
+university library,1
+nieuw,1
+definite description lexical choice,1
+time-constrained communication,1
+gendr,1
+generic deep realizer,1
+teammates,1
+rdf2pt,1
+music-language mapping,1
+up-cycling data,1
+german definitory contexts,1
+interest detection,1
+content-based conflict,1
+rollenwechsel-english,1
+structured interpretation,1
+nl2bash,1
+linux operating system,1
+nautilus speaker characterization corpus,1
+differential responses,1
+low-resource post processing,1
+cogcompnlp,1
+abkhaz national corpus,1
+process documentation,1
+replay-dh client,1
+english baits,1
+serbian multi-word terminology,1
+large-scale english verbal multiword expression,1
+konbitzul,1
+krauts,1
+madari,1
+russian idiom,1
+reusable workflows,1
+distributional term,1
+occurrence trend,1
+eventwiki,1
+multi-label authorship attribution,1
+gagauz,1
+tab-separated values,1
+pmki,1
+romanian academy,1
+sumerian corpora,1
+noisy ocr output,1
+medieval document sections analysis,1
+j-medic,1
+japanese disease name dictionary,1
+real clinical usage,1
+action concepts,1
+ecolexicat,1
+terminology-enhanced cat tool,1
+distributionally induced senses,1
+urdu pronunciation lexicon generator,1
+2 billion token,1
+online media phenomena,1
+lodexporter,1
+lido rdf,1
+scholargraph,1
+chinese relation classification,1
+english vocabulary knowledge dataset,1
+rtgender,1
+photoshopquia,1
+sanaphor++,1
+refer-to-as relations,1
+drag-and-drop based tool,1
+sacr,1
+information-providing,1
+closed-domain,1
+bashi,1
+bioread,1
+central siberian yupik,1
+mmqa,1
+textual difficulties,1
+the first 100 days,1
+medical sentiment analysis,1
+patient assisted system,1
+sw4all,1
+cbfc,1
+precision g2p,1
+epitran,1
+parcorfull,1
+cpjd corpus,1
+caucasus region,1
+emtc,1
