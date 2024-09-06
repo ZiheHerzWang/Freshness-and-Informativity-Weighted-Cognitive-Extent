@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(rf'originMethod\newAreaCalculation_by_length.csv')
+df = pd.read_csv('newAreaCalculation_by_length.csv')
 
 df['Quartile'] = df['Quartile'].astype(str)
 df['Novelty Score'] = df['Novelty Score'].fillna(0)  
