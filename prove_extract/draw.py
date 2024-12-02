@@ -1,32 +1,34 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# 定义三个模型的 Precision, Recall 和 F1-score
+plt.rcParams.update({'font.size': 20})
+# Define metrics and model values
 metrics = ['Precision', 'Recall', 'F1-score']
 spacy_values = [7.92, 6.50, 6.73]
 scibert_values = [3.54, 8.46, 4.78]
 gpt4_values = [59.90, 78.57, 66.04]
 
-# 设置图形
-x = np.arange(len(metrics))  # 每个指标的位置
-width = 0.2  # 条形的宽度
+# Set positions for each metric
+x = np.arange(len(metrics))  
+width = 0.2  # Width of each bar
 
-# 创建图表
-fig, ax = plt.subplots()
+# Create a wider figure to extend the x-axis
+fig, ax = plt.subplots(figsize=(10, 9))  # Increased width to 12
 
-# 绘制每个模型的条形
+# Plot each model's bars
 rects1 = ax.bar(x - width, spacy_values, width, label='SpaCy')
 rects2 = ax.bar(x, scibert_values, width, label='SciBERT')
 rects3 = ax.bar(x + width, gpt4_values, width, label='GPT-4')
 
-# 添加一些文本标签
+# Set labels
 ax.set_ylabel('Scores (%)')
-ax.set_title('Model Comparison: Precision, Recall, F1-score')
 ax.set_xticks(x)
 ax.set_xticklabels(metrics)
-ax.legend()
 
-# 在条形上添加数值标签
+# Move the legend to the upper left corner
+ax.legend(loc='upper left', prop={'size': 15})
+
+# Add value labels above the bars
 def autolabel(rects):
     for rect in rects:
         height = rect.get_height()
@@ -40,14 +42,14 @@ autolabel(rects1)
 autolabel(rects2)
 autolabel(rects3)
 
-# 调整布局
+# Adjust layout to prevent clipping of labels
 fig.tight_layout()
 
-# 保存图表为 PNG 文件
-output_path = 'model_comparison.png'
+# Save the figure
+output_path = 'model_comparison_left_legend.png'
 plt.savefig(output_path)
 
-# 如果不需要显示图像，请注释掉 plt.show()
+# Optional: Uncomment the following line to display the plot
 # plt.show()
 
-print(f"图表已保存到 {output_path}")
+print(f"Chart saved at {output_path}")
