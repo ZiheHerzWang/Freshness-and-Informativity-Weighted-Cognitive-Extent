@@ -1,0 +1,179 @@
+word1,word2,similarity,human_label
+dicautom,graphical interface,1.4676985301775858e-05,0.0
+iterative knowledge transfer,semantic knowledge base,2.915500408562366e-05,0.0
+lexicographic tool,ambiguous words,1.6430503819719888e-05,0.0
+graph and text joint embedding,sltu,1.744209112075623e-05,0.0
+mandarin conversation,multi-relational semantic similarity,1.402793077431852e-05,0.0
+bert architectures,learning useful things,1.3205180948716588e-05,0.0
+pronominal anaphora resolution,lif,1.952404272742569e-05,0.0
+hidden markov modeling,mask-align,1.2909773431601934e-05,0.0
+amazon's mechanical turk,texte contrainte,1.2820027222915089e-05,0.0
+character n-gram features,pretrained language model generation,1.4743114661541767e-05,0.0
+in-context learning,context-aware answer extraction,0.102831058204174,0.0
+conssed,uow,0.1282199770212173,0.0
+hierarchical system,hierarchical tag context trees,0.1228666827082634,0.0
+controlled semi-automatic annotation,automatically annotated resource,0.1459438353776931,0.0
+結合統計與語言訊息的混合式中英雙語句對應演算法,crl,0.1802813112735748,0.0
+naturalness of language,natural language production,0.1138273030519485,0.0
+abstraction automatique,evaluation automatique,0.1121685579419136,0.0
+short text similarity modeling,monolingual word similarity datasets,0.1010927334427833,0.0
+generic,alt,0.1659171730279922,0.0
+linear n-grams,word and character n-gram embeddings,0.1252066493034362,0.0
+character tagging,temporal tagging,0.2516250014305115,0.0
+task-oriented dialogue data,few-shot dialogue generation tasks,0.2160426080226898,0.0
+attach,incremental design,0.2363091707229614,0.0
+hungarian texts,friendships,0.216650441288948,0.0
+semantic primitives,semantic frameworks,0.2725220024585724,0.0
+concept-based multilingual terminology databases,multilingual lexical description,0.2010142505168914,0.0
+半监督跨领域语义依存分析技术,logic based systems,0.2425167560577392,0.0
+cascaded phrase-based statistical machine translation systems,web-based statistical translation models,0.233062669634819,0.0
+aligned sentences,marginalizing alignments,0.212989941239357,0.0
+machine-translated patents,cross system machine translation,0.2706527709960937,0.0
+eigenword embeddings,target domain embeddings,0.3607985377311706,0.0
+english-vietnamese machine translation,hybrid russian-english machine translation system,0.3455250561237335,0.0
+tdt corpora,high-quality text corpora,0.3385858535766601,0.0
+wmt14 metrics shared task,cmcl2021 shared task,0.3220584094524383,0.0
+what,multilingual entity task,0.3083029985427856,0.0
+relation embeddings,suicide-oriented word embeddings,0.3531357944011688,0.0
+structures de dépendances non-projectives (non-projectives dependency structures),partial dependency trees,0.3658260405063629,0.0
+universal semantic tagging,semantic labels,0.3831010460853576,0.0
+sstc (the sstc),multiple semantic networks,0.3457113206386566,0.0
+guidelines,target identification,0.3220873475074768,0.0
+extending,notion,0.3591596782207489,0.0
+01101000 01100001 01101110 01100100 (binary code),medical incident report corpus,0.3835042715072632,0.0
+hooks,cs-embed,0.3610894978046417,0.0
+violence acts,exploratory study,0.3171345293521881,0.0
+multi-label set prediction,multi-label malevolence detection,0.3024194240570068,0.0
+language technology applications,text-to-speech technology,0.3366815745830536,0.0
+loresmt shared task,qalb-2015 shared task,0.3682256639003753,0.0
+monolingual treebanks,penn-ii treebanks,0.4611158370971679,1.0
+multi-source multilingual information extraction,multilingual text processing,0.484617680311203,0.0
+unsupervised paradigm clustering,unsupervised correction,0.4633500576019287,0.0
+simple language models,visualization modeling language,0.4414134621620178,0.0
+victims,dialokg,0.4814019501209259,0.0
+nlp-based scripting,farsi nlp approach,0.4139198064804077,1.0
+scrambling,crisis,0.4637092649936676,0.0
+respect,modular question answering,0.4309847056865692,0.0
+mention,localized detection,0.4752028584480285,0.0
+finite state transducer,finite-state compiler,0.5834757685661316,0.0
+achieve,noisy pdf text,0.5191972255706787,0.0
+mining character-level patterns,query pattern mining,0.5161671042442322,1.0
+probabilistic generation,probabilistic disambiguation,0.5389335751533508,0.0
+privacy,human annotations,0.5812318921089172,0.0
+lstm-based dependency parsing,dependency parsing performance,0.5451436042785645,1.0
+cross-lingual lexical similarity,two-phase cross-lingual language model,0.5887686014175415,1.0
+hebrew,modeled,0.566852331161499,0.0
+coreference annotator,linguistically aware coreference,0.5770263075828552,0.0
+iwslt 2005,iwslt 2018 speech translation task,0.5435723066329956,1.0
+imagine,structural correspondences,0.5553091168403625,0.0
+relation,bio-entity relation detection,0.5588484406471252,1.0
+block,vulnerable users,0.5400674343109131,0.0
+multilingual xml,multilingual nmt representations,0.5457779169082642,1.0
+bilingual data,authentic bilingual text resources,0.5692612528800964,1.0
+registration,bilingual pronunciation dictionary,0.5466019511222839,0.0
+static embeddings,contextualized topic embeddings,0.539604663848877,1.0
+domain-specific questions,domain-specific noun polarity,0.503425121307373,1.0
+text passages,bible corpus,0.582748293876648,0.0
+understand,degree of supervision,0.5819296836853027,0.0
+context-based approach,context-aware natural language generator,0.5965508222579956,0.0
+知網,wordgraph,0.6134166121482849,0.0
+low-resource morphological analyzer,very low resource language modeling,0.6388255953788757,1.0
+parallel chart parsing,parallel expert parser (pep),0.694124698638916,1.0
+understands,language independent,0.6506958603858948,0.0
+lexico-syntactic reformulation,lexical-syntactic level,0.6323078274726868,1.0
+inclusive,information access dialogue,0.6536628603935242,0.0
+what,transformer translation model,0.6052364110946655,0.0
+automatic tools,cart,0.6556799411773682,0.0
+testing corpora,five corpora,0.6650540828704834,1.0
+ontology-based knowledge base,ontology-based lookup,0.6395552754402161,1.0
+cans,spatiaux,0.6393662691116333,1.0
+explanatory power,explanatory essays,0.6741037964820862,1.0
+safe,non nlp-specialists,0.6360914707183838,0.0
+multi-class multilingual classification,multilingual multiway evaluation data set,0.6985141038894653,1.0
+clean,parafac,0.6012622714042664,0.0
+pre-trained language models,large language models,0.6965177655220032,0.0
+textes non standard,non-text symbols,0.6734830141067505,1.0
+entity linking gold standard dataset,interactive entity linking,0.6945584416389465,1.0
+package,natural language input,0.6994829773902893,0.0
+large-scale benchmark,large-scale comparable corpora,0.6280941963195801,1.0
+cross-lingual model training,cross-lingual similarity estimation,0.612663745880127,1.0
+cross-lingual pretraining,cross-lingual phonemic contrasts,0.797152042388916,1.0
+mixer,simple ensembles,0.7621983289718628,0.0
+domain specific word extraction,domain-specific pre-trained language models,0.7595869898796082,0.0
+translation decisions,translation management,0.790446400642395,1.0
+adapt,natural language tools,0.7270448207855225,0.0
+structured language modeling,multilingual generative language models,0.7756323218345642,0.0
+unsupervised relation vectors,robust unsupervised methods,0.7872961163520813,0.0
+defenses,markus walther,0.7899348139762878,0.0
+flu,short answer assessment,0.7386112213134766,0.0
+fees,on-demand,0.7761287093162537,1.0
+bag,tdeer,0.7183690071105957,0.0
+rules,relationfactory,0.7794690132141113,0.0
+one,meaning theoretical,0.7738317251205444,0.0
+two approaches,two-step clustering,0.7302771806716919,0.0
+bird,spoken language corpora,0.7923063635826111,0.0
+檢索,concept of derivation,0.7775028347969055,0.0
+context-specific,context-based filtering,0.7718468904495239,1.0
+semantic textual similarity quantification,semantic word similarity,0.7011126279830933,1.0
+01101000 01100001 01101110 01100100 (binary code),eanc platform,0.7007271647453308,0.0
+similar word matching,similarity-based tibetan word co-occurrence networks,0.8810326457023621,0.0
+8th conference,7th international joint conference on natural language processing,0.8399994969367981,1.0
+computer-assisted translation system,nlpr translation system,0.8891804218292236,1.0
+low resource scenarios,low-resource cross-lingual learning,0.8166269659996033,1.0
+features selection,single speaker,0.8489238023757935,0.0
+self-correction,self-normalizing,0.8921619653701782,0.0
+multilingual web dictionary,multilingual terminology extraction,0.8438525199890137,1.0
+domain-specific corpus,domain-specific knowledge acquisition,0.8191253542900085,1.0
+graph-based event planning framework,adaptive graph-interactive framework,0.8643393516540527,0.0
+annotation artifacts,annotation curricula,0.8737136125564575,1.0
+language documentation tools,language exploration tools,0.8697165250778198,1.0
+01101000 01100001 01101110 01100100 (binary code),three designs,0.8746801614761353,0.0
+personal,german text,0.8946091532707214,0.0
+call,byt5,0.8097583055496216,0.0
+medical corpora,multi-document summarization corpora,0.8464187383651733,1.0
+question and answer pair generation,natural language question-answer pairs,0.847618579864502,1.0
+interactive environment,recommendation,0.8432884216308594,0.0
+select,unsupervised dop,0.8684371709823608,0.0
+proposed solution,communicate,0.8099385499954224,0.0
+endangered,détection,0.8294931650161743,0.0
+color,netapp,0.8199349045753479,0.0
+german wordnet,german text-to-speech system,0.8143444061279297,1.0
+copy,simsem,0.8726391792297363,1.0
+unsupervised natural language segmentation,unsupervised cross-lingual transfer,0.8364421725273132,1.0
+use,interdependence,0.8128445148468018,0.0
+feature based models,mrs-based features,0.8011900186538696,1.0
+task instructions,control tasks,0.8100329637527466,1.0
+expressive,rhetoric,0.8764283061027527,0.0
+uniform,ncrf,0.8110091090202332,0.0
+multilingual information,multilingual representation,0.8587533235549927,1.0
+match,clozer,0.8969533443450928,1.0
+test set,multilingual test sets,0.998145580291748,1.0
+feature-rich multilingual datasets,multilingual dataset construction,0.8284937739372253,1.0
+translated datasets,language datasets,0.5046482086181641,1.0
+multi-dataset question answering,web-scale question answering dataset,0.971144676208496,1.0
+dialogue summarization data sets,summarization dataset,0.9428073763847352,0.0
+large data sets,large unsupervised data sets,0.9989069700241088,1.0
+multi-dataset evaluation,multi-domain dialogue dataset,0.7671224474906921,1.0
+multi-dataset,multimodal meme dataset,0.9889322519302368,0.0
+settings,nltoolset system,0.6647568345069885,0.0
+pragmatic chinese dataset,chinese review dataset,0.8270939588546753,1.0
+nature of the training set,small training sets,0.4734584391117096,1.0
+datasets,turkish dataset,0.8330840468406677,1.0
+dataset analysis,mesh-based dataset,0.4449221193790436,0.0
+multilingual humanitarian dataset,multilingual hate speech datasets,0.966857135295868,1.0
+large-scale data-to-text dataset,large-scale danish summarisation dataset,0.9432749152183532,1.0
+multimodal set of documents,multimodal entity linking dataset,0.3040738999843597,0.0
+large-scale datasets,multimodal datasets,0.5482866168022156,0.0
+text datasets,word similarity datasets,0.4101738035678863,1.0
+datasets,dataset construction,0.9039218425750732,1.0
+sets,automatic set expansion,0.7840608954429626,0.0
+twitter dataset,monolingual social media datasets,0.3599449098110199,0.0
+ten benchmark datasets,multi-dataset benchmarks,0.9469531178474426,1.0
+multi-reference adversarial dataset,multilingual dataset,0.4103181362152099,0.0
+multi-lingual setup,cross-lingual setting,0.8383498191833496,1.0
+multi-sense evaluation dataset,multi-dataset evaluation,0.9960759282112122,1.0
+set,core synsets,0.6260795593261719,0.0
+multi-level dataset,multilingual multiway evaluation data set,0.9018415212631226,1.0
+multi-document summarization dataset,summarization datasets,0.898103654384613,1.0
+two data sets,specialized data sets,0.6952039003372192,0.0
+multi-dataset benchmarks,word-level benchmark datasets,0.8358895182609558,1.0
