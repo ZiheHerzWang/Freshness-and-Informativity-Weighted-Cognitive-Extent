@@ -64,7 +64,7 @@ with open('FICE_Area_Preparation/references.csv', 'r', encoding='utf-8', errors=
         data_list.append([original_title, year, important_words])
 
 # Write the processed data to a new CSV file
-output_file_path = 'FICE_Area_Preparation/temp_all_gpt_extract.csv'
+output_file_path = 'FICE_Area_Preparation/csv file/temp_all_gpt_extract.csv'
 with open(output_file_path, 'w', encoding='utf-8', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(['Title', 'Year', 'Scientific Entity'])  # Define column titles

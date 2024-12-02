@@ -21,17 +21,30 @@ This folder contains scripts to analyze the frequency of scientific terms over t
 2. **`2_gpt_extract.py`:**  
    Uses GPT-based models to extract scientific entities from paper titles. Requires an OpenAI API key to run.
 
-3. **`3_disambiguous.py`:**  
-   Clusters similar scientific terms by analyzing their semantic similarity and assigns a representative term for each cluster. Updates the CSV with disambiguated terms.
+3. **`3_1_extract_unque_entity.py`:**  
+   Extracts unique scientific entities from GPT-extracted data. Processes the `Scientific Entity` column, normalizes text, and removes duplicates to create a list of unique terms. Outputs the result to `Unique_word.csv`.
 
-4. **`4_separate_for_parallel.py`:**  
+4. **`3_2_extract_180_pair.py`:**  
+   Randomly samples pairs of unique entities from `Unique_word.csv` and computes semantic similarity scores using a cross-encoder model (`ms-marco-MiniLM-L-12-v2`). Groups pairs into predefined similarity bins for further analysis.
+
+5. **`3_3_manual_labelling.py`:**  
+   Facilitates human verification of similarity labels for word pairs. Prompts users to assign binary labels (`0` or `1`) to sampled pairs and updates the similarity CSV file with human-labeled data.
+
+6. **`3_4_find_threshold.py`:**  
+   Analyzes the human-labeled similarity scores to determine the optimal similarity threshold. Uses the ROC curve to find a threshold that balances precision and recall for effective clustering.
+
+7. **`4_disambiguous.py`:**  
+   Clusters similar scientific terms based on the determined similarity threshold. Assigns a representative term for each cluster and updates the CSV file with disambiguated terms.
+
+8. **`5_separate_for_parallel.py`:**  
    Splits the data for parallel processing. Adjust `device_total_number` based on your system's thread capacity.
 
-5. **`5_LifeTime_Ratio_Generation.py`:**  
+9. **`6_LifeTime_Ratio_Generation.py`:**  
    Analyzes the frequency of scientific terms over time, fits Gaussian models, detects peaks in word trends, and visualizes results. Supports parallel processing; adjust `device_total_number` accordingly.
 
-6. **`6_combined_results.py`:**  
-   Merges processed data, filters invalid entries (e.g., negative ratios), caps ratios at 1, and outputs a cleaned CSV file.
+10. **`7_combined_results.py`:**  
+    Merges processed data, filters invalid entries (e.g., negative ratios), caps ratios at 1, and outputs a cleaned CSV file.
+
 
 ---
 

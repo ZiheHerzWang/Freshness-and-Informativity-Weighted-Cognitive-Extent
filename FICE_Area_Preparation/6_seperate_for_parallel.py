@@ -4,7 +4,7 @@ from collections import Counter
 
 device_total_number = 20 # modify it to your device thread
 # Load your data
-data = pd.read_csv(r'FICE_Area_Preparation/temp_all_gpt_extract.csv')
+data = pd.read_csv(r'FICE_Area_Preparation/csv file/all_gpt_extract.csv')
 # Fill NA/NaN values 
 data['Scientific Entity Disambigious'] = data['Scientific Entity Disambigious'].fillna("")
 
@@ -31,9 +31,9 @@ df = pd.DataFrame(rows, columns=['Unique_Word', 'Count'])
 df = df.sort_values(by='Count', ascending=False)
 
 # Write the DataFrame to a CSV file
-df.to_csv(f'C:/Users/zihe0/Desktop/try/Novelty-Life-Time/FICE_Area_Preparation/Unique_word_with_count.csv', index=False)
+df.to_csv(f'FICE_Area_Preparation/Unique_word_with_count.csv', index=False)
 
-df = pd.read_csv(rf'C:/Users/zihe0/Desktop/try/Novelty-Life-Time/FICE_Area_Preparation/Unique_word_with_count.csv')
+df = pd.read_csv(rf'FICE_Area_Preparation/Unique_word_with_count.csv')
 
 chunk_size = -(-len(df) // device_total_number)  
 
@@ -43,6 +43,6 @@ for i in range(device_total_number):
     
     chunk_df = df.iloc[start:end]
     
-    chunk_filename = rf'C:/Users/zihe0/Desktop/try/Novelty-Life-Time/FICE_Area_Preparation/parallel/Unique_word_with_count_{i}.csv'
+    chunk_filename = rf'FICE_Area_Preparation/parallel/Unique_word_with_count_{i}.csv'
     chunk_df.to_csv(chunk_filename, index=False)
 

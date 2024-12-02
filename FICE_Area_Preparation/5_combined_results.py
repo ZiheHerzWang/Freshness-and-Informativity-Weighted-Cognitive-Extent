@@ -1,9 +1,9 @@
 import pandas as pd
 import glob
 
-path_folder = "C:/Users/zihe0/Desktop/try/Novelty-Life-Time/new_pipeline/parallel/area_csv_file"
-path_file = f"{path_folder}/word_counts_fits_process_*.csv"
-merged_area_path = f"{path_folder}/merged_area_file.csv"
+path_folder = "FICE_Area_Preparation/parallel/area_csv_file"
+path_file = f"{path_folder}/word_counts_fits_process_new_most_new_*.csv"
+merged_area_path = f"{path_folder}/area_csv_file/merged_area_file.csv"
 all_files = glob.glob(path_file)
 list_data = []
 for filename in all_files:

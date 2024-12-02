@@ -5,7 +5,7 @@ import torch
 from tqdm import tqdm
 
 # Load the CSV file
-file_path = r"FICE_Area_Preparation/temp_all_gpt_extract.csv"
+file_path = r"FICE_Area_Preparation/csv file/all_gpt_extract.csv"
 df = pd.read_csv(file_path)
 print(f"Total rows to process: {len(df)}")
 

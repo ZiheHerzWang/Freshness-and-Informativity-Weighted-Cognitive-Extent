@@ -11,7 +11,7 @@ from scipy.signal import find_peaks
 import re
 
 
-output_dir = f"C:/Users/zihe0/Desktop/try/Novelty-Life-Time/FICE_Area_Preparation/parallel/area_csv_file"
+output_dir = f"FICE_Area_Preparation/parallel/area_csv_file"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 device_total_number =  20 # Modify it to your cpu  thread
 print(device)
@@ -207,7 +207,7 @@ def analyze_data(args):
 
     filename, count_howmany, process_id = args
     unique_words_data = pd.read_csv(filename, encoding='utf-8')
-    data = pd.read_csv(f'C:/Users/zihe0/Desktop/try/Novelty-Life-Time/FICE_Area_Preparation/all_gpt_extract.csv')
+    data = pd.read_csv(f'FICE_Area_Preparation/all_gpt_extract.csv')
 
     data['Year'] = pd.to_numeric(data['Year'], errors='coerce').fillna(0).astype(int)
     data['Scientific Entity Disambigious'] = data['Scientific Entity Disambigious'].fillna("")
@@ -279,7 +279,7 @@ def process_in_parallel(num_files):
         count_howmany = manager.Value('i', 0)
         pool = mp.Pool(mp.cpu_count())
         pool.map(analyze_data, [
-            (f'C:/Users/zihe0/Desktop/try/Novelty-Life-Time/FICE_Area_Preparation/parallel/Unique_word_with_count_{i}.csv', count_howmany, i) for i in range(num_files)
+            (f'FICE_Area_Preparation/parallel/Unique_word_with_count_{i}.csv', count_howmany, i) for i in range(num_files)
         ])
         pool.close()
         pool.join()
