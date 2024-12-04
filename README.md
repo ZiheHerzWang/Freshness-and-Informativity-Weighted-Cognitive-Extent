@@ -70,18 +70,22 @@ This folder contains scripts to calculate FICE scores for papers published in 20
    - Groups papers by citation counts.
    - Calculates average FICE scores and citations (C₅) per bin.  
    - Applies log transformation to C₅, computes Pearson correlation, and visualizes the relationship with a plot including error bars and correlation details.  
-   - Generates diagrams similar to Figure 5 in the paper.
+   - Generates diagrams similar to Figure 4 in the paper.
+   [View the PDF Documentation](picture/frequency_250.pdf)
+
 
 6. **`draw_Cognitive_vs_Year.py`:**  
    - Analyzes the cognitive extent (unique scientific entities) across different years.  
    - Bins data into sizes of 125, 250, and 500, and calculates the number of unique entities per bin.  
    - Fits polynomial regression curves and visualizes trends for disambiguated and non-disambiguated entities.  
-   - Generates Figure 4 in the paper.
+   - Generates Figure 3 in the paper.
+   [View the PDF Documentation](picture/fig_4.pdf)
 
 7. **`draw_Count_vs_Year.py`:**  
    - Tracks yearly trends in scientific entities and paper counts.  
    - Highlights total and first-time unique entities with polynomial-fitted trends.  
-   - Generates Figure 2 in the paper.
+   - Generates Figure 1 in the paper.
+   [View the PDF Documentation](picture/fig_2.pdf)
 
 ---
 
