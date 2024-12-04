@@ -79,6 +79,7 @@ This folder contains scripts to calculate FICE scores for papers published in 20
    - Bins data into sizes of 125, 250, and 500, and calculates the number of unique entities per bin.  
    - Fits polynomial regression curves and visualizes trends for disambiguated and non-disambiguated entities.  
    - Generates Figure 3 in the paper.
+   ![Frequency Diagram](picture/fig_4.png)
    
 
 7. **`draw_Count_vs_Year.py`:**  
