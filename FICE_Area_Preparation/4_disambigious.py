@@ -18,7 +18,7 @@ model = AutoModelForSequenceClassification.from_pretrained("cross-encoder/ms-mar
 model.eval()
 
 # Similarity threshold for clustering and bin size
-SIMILARITY_THRESHOLD = 0.5034
+SIMILARITY_THRESHOLD = 0.5
 BIN_SIZE = 250
 
 # Function to get similarity score between a word and representatives in batch
