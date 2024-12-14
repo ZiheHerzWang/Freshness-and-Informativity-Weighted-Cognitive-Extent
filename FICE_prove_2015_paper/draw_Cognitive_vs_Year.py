@@ -5,14 +5,14 @@ from numpy.polynomial.polynomial import Polynomial
 import pandas as pd
 
 # Load the CSV file from the specified path
-file_path = "FICE_Area_Preparation/all_gpt_extract.csv"
+file_path = "C:/Users/zihe0/Documents/GitHub/Novelty-Life-Time/FICE_Area_Preparation/csv file/all_gpt_extract.csv"
 df = pd.read_csv(file_path)
 
 # Function to count unique entities in a bin
 def count_unique_entities(entities):
     return len(set(entities))
 
-merged_file = pd.read_csv(f"FICE_Area_Preparation/parallel/area_csv_file/merged_area_file.csv")
+merged_file = pd.read_csv(f"C:/Users/zihe0/Documents/GitHub/Novelty-Life-Time/FICE_Area_Preparation/parallel/area_csv_file/merged_area_file.csv")
 
 # Prepare data for plotting
 df_sorted = df.sort_values(by='Year')
@@ -99,13 +99,13 @@ plt.plot(x_range_125, y_pred_entities_125, color='orange', linestyle='-', linewi
 
 # Disambiguated (dot plot + smooth line for bin size 250)
 plt.plot(binned_entities_df_250['Year'], binned_entities_df_250['Cognitive Extent'], 
-         marker='o', linestyle='None', markersize=4, color='black', zorder=1, label='Disambiguated (Dots, bin=500)')
-plt.plot(x_range, y_pred_entities_250, color='blue', linestyle='-', linewidth=2, zorder=2, label='Disambiguated (Line, bin=500)')
+         marker='o', linestyle='None', markersize=4, color='black', zorder=1, label='Disambiguated (Dots, bin=250)')
+plt.plot(x_range, y_pred_entities_250, color='blue', linestyle='-', linewidth=2, zorder=2, label='Disambiguated (Line, bin=250)')
 
 # Disambiguated (triangle plot + smooth line for bin size 500)
 plt.plot(binned_entities_df_500['Year'], binned_entities_df_500['Cognitive Extent'], 
-         marker='^', linestyle='None', markersize=4, color='black', zorder=1, label='Disambiguated (Triangles, bin=250)')
-plt.plot(x_range_500, y_pred_entities_500, color='green', linestyle='-', linewidth=2, zorder=2, label='Disambiguated (Line, bin=250)')
+         marker='^', linestyle='None', markersize=4, color='black', zorder=1, label='Disambiguated (Triangles, bin=500)')
+plt.plot(x_range_500, y_pred_entities_500, color='green', linestyle='-', linewidth=2, zorder=2, label='Disambiguated (Line, bin=500)')
 
 # Not Disambiguated (smooth line)
 plt.plot(x_range, y_pred_words, color='red', linestyle='--', linewidth=2, zorder=1, label='Un-disambiguated')
@@ -114,4 +114,6 @@ plt.xlabel('Year')
 plt.ylabel('Number of Unique Entities per Bin')
 plt.grid(False)
 plt.legend(fontsize=9)
+plt.savefig('cognitive_extent_bin_500.png')
 plt.show()
+
